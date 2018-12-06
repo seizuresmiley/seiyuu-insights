@@ -48,7 +48,7 @@ def scraper():
                     count += 1
 
                     print('\r',"Tweets Collected: ", count,"out of 3200 theoretical.",end='')
-                    if count == 3:
+                    if count == 3200:
                         print("\n Done:" , count)
                         break
 
