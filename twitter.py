@@ -1,11 +1,12 @@
 import tweepy
 import json
+import csv
+import sys
+import os.path
 
-#These keys authenticate to Twitter API. Get your own.
+#These keys authenticate to Twitter API.
 with open('keys.json', "r") as keys:
     api_keys = json.load(keys)
-
-print(api_keys)
 
 consumer_key = api_keys['consumer_key']
 consumer_secret = api_keys['consumer_secret']
@@ -15,37 +16,46 @@ access_token_secret = api_keys['access_token_secret']
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
 auth.set_access_token(access_token, access_token_secret)
 api = tweepy.API(auth)
+def menu():
+    print("Type any character to scrape")
+    input()
+    scraper()
 
-#Request Parameters
-print("Target User:")
-target_user = input()
-print("Target User : " , target_user)
-#"response" is legacy code. It only retrieves 200 due to Twitter's API limitations.
-response =  api.user_timeline(target_user, count=200)
-#"cur_response" would basically go through pages of tweets, until we get to Twitter's
-# hard limit of 3200 tweets or so.
-cur_response = tweepy.Cursor(api.user_timeline, target_user).items()
-# count is our way of counting the tweets this script has gone through
-# total_fav counts the amount of likes.
-count = 0
-total_fav = 0
-#user_details is used to get total tweets, followers and verify status.
-user_details = api.get_user(target_user)
-#This loop will display all tweets it went through.
-for tweet in cur_response:
-    print(tweet._json['text'])
-    print("Favourites : ",tweet._json['favorite_count'])
+def scraper():
+    count=0
+    with open('list.csv' , mode='r') as target_list:
+        target_dict = csv.DictReader(target_list)
+        for row in target_dict:
+            seiyuu_name = row['name']
+            target_user = row['handle']
+            chara_name = row['chara']
 
-    count +=1
-    total_fav += int(tweet._json['favorite_count'])
-    print(">>>>>>>>>>>>>>>>>>>")
+            if target_user == '<none>':
+                result_dict = {"name" : row['name'], "handle" : row['handle'], "chara" : row['chara'],"has_twitter" : False, "tweets" : []}
+                print("User has no twitter! skipping.")
+            else:
+                result_dict = {"name" : row['name'], "handle" : row['handle'], "chara" : row['chara'],"has_twitter" : True, "tweets" : []}
 
-#This displays the summary so that we know that the script is targeting the correct account.
-print("Scraping Done.")
-print("Contender: ",target_user)
-print("Verified: ",user_details.verified)
-print("Followers: ",user_details.followers_count)
-percAnalyzed = 100 * (count / int(user_details.statuses_count))
-print("Tweets Analyzed: ", count, "out of ", user_details.statuses_count, "tweets" ,"(%.2f) Percent" % percAnalyzed )
-print("Total Faves: ", total_fav)
-print("Rating: ", total_fav/count)
+                #"cur_response" would basically go through pages of tweets, until we get to Twitter's
+                #hard limit of 3200 tweets or so.
+                #count is also used to make sure we get a consistent amount of tweets.
+                #since the API would sometimes return over 3200 tweets.
+                cur_response = tweepy.Cursor(api.user_timeline, target_user).items()
+                #This loop will display all tweets it went through, unitl it hits 3200.
+                print(seiyuu_name,"(%s)" % (target_user)," as %s" % (chara_name))
+                for tweet in cur_response:
+                    result_dict['tweets'].append(tweet._json)
+                    count += 1
+
+                    print('\r',"Tweets Collected: ", count,"out of 3200 theoretical.",end='')
+                    if count == 3:
+                        print("\n Done:" , count)
+                        break
+
+                    # Dumps the result into a big json file.
+                with open("result_raw/%s(%s).json" % (target_user,seiyuu_name),"a",encoding="utf8") as dump:
+                    dump.write(json.dumps(result_dict,indent=4))
+                    print("Dumped to /result_raw/%s(%s).json" % (target_user,seiyuu_name)," Starting another user collection")
+                    #resets the count.
+                    count = 0
+menu()
