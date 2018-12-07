@@ -19,6 +19,7 @@ def menu():
     ''' this function makes it so that the collection process requires
     user interaction'''
     print("Type any character to scrape")
+    limit_check()
     input()
     scraper()
 
@@ -45,10 +46,12 @@ def scraper():
                 #count is also used to make sure we get a consistent amount of tweets.
                 #since the API would sometimes return over 3200 tweets.
                 cur_response = tweepy.Cursor(api.user_timeline, target_user).items()
+
                 #Prints out the current user the script is pulling data from.
                 print(seiyuu_name,"(%s)" % (target_user)," as %s" % (chara_name))
                 #This loop goes through all the tweets.
                 for tweet in cur_response:
+
                     #this stores the responses into a huge dict.
                     result_dict['tweets'].append(tweet._json)
                     count += 1
@@ -68,6 +71,23 @@ def scraper():
                     end_time = time.time()
                     print(" Time : ", end_time - start_time, "s")
                     #resets the count.
-                    count = 0
+                count = 0
+                api_limits = limit_check()
+                print("Limit Status :",api_limits["remaining_calls"],api_limits["reset_time"],sep=' ')
+                #this checks if we have enough API calls. It'd wait unitl
+                #the reset.
+                if api_limits["remaining_calls"] < 162:
+                    print("Not enough calls left!")
+                    print("Waiting until reset at " ,api_limits["reset_time"])
+                    time.sleep(api_limits["reset_time"] - time.time())
 
+
+
+                    #time.sleep(120)
+def limit_check():
+    '''checks the API rate limits'''
+    rate_limit = api.rate_limit_status()
+    remaining_calls = rate_limit["resources"]["statuses"]["/statuses/user_timeline"]["remaining"]
+    reset = rate_limit["resources"]["statuses"]["/statuses/user_timeline"]["reset"]
+    return {"remaining_calls" : remaining_calls , "reset_time" : reset}
 menu()
