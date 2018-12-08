@@ -38,7 +38,7 @@ def user_exists():
                     print("Verifying", data['handle'])
                     # We check if the user has more than 3200 tweets and that we collected 3200
                     # tweets.
-                    if data['tweets'][0]['user']['statuses_count'] > 20 and len(data['tweets']) < 20:
+                    if data['tweets'][0]['user']['statuses_count'] >= 3200 and len(data['tweets']) < 3200:
                         mismatches.append(data['handle'])
     # Outputs the results
     if len(mismatches) > 0:
