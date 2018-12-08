@@ -36,11 +36,10 @@ def scraper():
             #Check if the targeted person has a twitter account.
             if target_user == '<none>':
                 #The resulting json will have the value 'has_twitter' as false.
-                result_dict = {"name" : row['name'], "handle" : row['handle'], "chara" : row['chara'],"has_twitter" : False, "tweets" : []}
                 print("User has no twitter! skipping.")
             else:
                 #This part is the part where we store information that is manually curated.
-                result_dict = {"name" : row['name'], "handle" : row['handle'], "chara" : row['chara'],"has_twitter" : True, "tweets" : []}
+                result_dict = {"name" : row['name'], "handle" : row['handle'], "chara" : row['chara'],"timestamp" : 0, "tweets" : []}
                 #"cur_response" would basically go through pages of tweets, until we get to Twitter's
                 #hard limit of 3200 tweets or so.
                 #count is also used to make sure we get a consistent amount of tweets.
@@ -51,7 +50,6 @@ def scraper():
                 print(seiyuu_name,"(%s)" % (target_user)," as %s" % (chara_name))
                 #This loop goes through all the tweets.
                 for tweet in cur_response:
-
                     #this stores the responses into a huge dict.
                     result_dict['tweets'].append(tweet._json)
                     count += 1
@@ -60,30 +58,29 @@ def scraper():
                     #Breaks the loop when the count hits 3200. However, not all accounts
                     #would hit the 3200 limit.
                     if count == 3200:
-                        print("\n Done:" , count)
                         break
-
+                print("\n Done:" , count)
                 # Dumps the result into a big json file.
-                with open("result_raw/%s(%s).json" % (target_user,seiyuu_name),"a",encoding="utf8") as dump:
+                result_dict.update({"timestamp" : time.time()})
+                with open("result_raw/%s(%s).json" % (target_user,seiyuu_name),"w+",encoding="utf8") as dump:
                     dump.write(json.dumps(result_dict,indent=4))
                     print(" Dumped to /result_raw/%s(%s).json" % (target_user,seiyuu_name),"\n Starting another user collection")
                     #this part keeps track of the elapsed time.
                     end_time = time.time()
                     print(" Time : ", end_time - start_time, "s")
                     #resets the count.
+
                 count = 0
                 api_limits = limit_check()
                 print("Limit Status :",api_limits["remaining_calls"],api_limits["reset_time"],sep=' ')
                 #this checks if we have enough API calls. It'd wait unitl
-                #the reset.
+                #the reset. It usually takes 161 calls to complete a
+                #3200 tweet profile.
                 if api_limits["remaining_calls"] < 162:
                     print("Not enough calls left!")
                     print("Waiting until reset at " ,api_limits["reset_time"])
                     time.sleep(api_limits["reset_time"] - time.time())
 
-
-
-                    #time.sleep(120)
 def limit_check():
     '''checks the API rate limits'''
     rate_limit = api.rate_limit_status()
