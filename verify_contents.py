@@ -5,16 +5,6 @@ import csv
 # sets the working directory.
 working_dir = "result_raw/"
 
-
-def filelist():
-    '''gets all files in the result_raw directory'''
-    global working_dir
-    files_list = []
-    for filename in os.listdir(working_dir):
-        files_list.append(filename)
-        return files_list
-
-
 def user_exists():
     '''checks for incomplete data collection'''
     # gets global variable
@@ -22,7 +12,6 @@ def user_exists():
     # opens the list.csv file.
     with open('list.csv', mode='r') as target_list:
         target_dict = csv.DictReader(target_list)
-        files_list = filelist()
         # collects all the mismatched users.
         mismatches = []
         for row in target_dict:
