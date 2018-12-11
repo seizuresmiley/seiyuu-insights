@@ -13,7 +13,6 @@ access_token = api_keys['access_token']
 access_token_secret = api_keys['access_token_secret']
 #Authentication Process.
 auth = tweepy.AppAuthHandler(consumer_key, consumer_secret)
-auth.set_access_token(access_token, access_token_secret)
 api = tweepy.API(auth)
 def menu():
     ''' this function makes it so that the collection process requires
@@ -44,7 +43,7 @@ def scraper():
                 #hard limit of 3200 tweets or so.
                 #count is also used to make sure we get a consistent amount of tweets.
                 #since the API would sometimes return over 3200 tweets.
-                cur_response = tweepy.Cursor(api.user_timeline, target_user).items()
+                cur_response = tweepy.Cursor(api.user_timeline, target_user,count=200).items(3200)
 
                 #Prints out the current user the script is pulling data from.
                 print(seiyuu_name,"(%s)" % (target_user)," as %s" % (chara_name))
@@ -57,8 +56,6 @@ def scraper():
                     print('\r',"Tweets Collected: ", count,"out of 3200 theoretical.",end='')
                     #Breaks the loop when the count hits 3200. However, not all accounts
                     #would hit the 3200 limit.
-                    if count == 3200:
-                        break
                 print("\n Done:" , count)
                 # Dumps the result into a big json file.
                 result_dict.update({"timestamp" : time.time()})
@@ -83,6 +80,7 @@ def scraper():
 
 def limit_check():
     '''checks the API rate limits'''
+    #calls the API to get rate limit information
     rate_limit = api.rate_limit_status()
     remaining_calls = rate_limit["resources"]["statuses"]["/statuses/user_timeline"]["remaining"]
     reset = rate_limit["resources"]["statuses"]["/statuses/user_timeline"]["reset"]
