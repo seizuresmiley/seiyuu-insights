@@ -12,7 +12,7 @@ consumer_secret = api_keys['consumer_secret']
 access_token = api_keys['access_token']
 access_token_secret = api_keys['access_token_secret']
 #Authentication Process.
-auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
+auth = tweepy.AppAuthHandler(consumer_key, consumer_secret)
 auth.set_access_token(access_token, access_token_secret)
 api = tweepy.API(auth)
 def menu():
