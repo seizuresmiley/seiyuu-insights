@@ -14,6 +14,7 @@ def user_exists():
         target_dict = csv.DictReader(target_list)
         # collects all the mismatched users.
         mismatches = []
+        tweet_count = 0
         for row in target_dict:
             seiyuu_name = row['name']
             target_user = row['handle']
@@ -29,6 +30,7 @@ def user_exists():
                     # tweets.
                     if data['tweets'][0]['user']['statuses_count'] >= 3200 and len(data['tweets']) < 3200:
                         mismatches.append(data['handle'])
+                    tweet_count += len(data['tweets'])
     # Outputs the results
     if len(mismatches) > 0:
         print("Mismatches detected: ")
@@ -36,6 +38,7 @@ def user_exists():
             print(handle)
     else:
         print("No mismatches detected.")
+        print(tweet_count, "total tweets collected.")
 
 
 user_exists()
