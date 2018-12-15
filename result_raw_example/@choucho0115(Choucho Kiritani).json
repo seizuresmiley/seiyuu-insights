@@ -1,0 +1,3172 @@
+{
+    "name": "Choucho Kiritani",
+    "handle": "@choucho0115",
+    "chara": "Miya Miyao",
+    "timestamp": 1544254063.9429755,
+    "tweets": [
+        {
+            "created_at": "Sat Dec 08 07:14:37 +0000 2018",
+            "id": 1071302008794042368,
+            "id_str": "1071302008794042368",
+            "text": "\u30c1\u30e7\u30af\u30e1\u3002\n\u307f\u3093\u306a\u304b\u3089\u306e\u8fd4\u4fe1\u3092\u8aad\u3093\u3067\u308b\u3093\u3060\u3051\u3069\u3001\u307f\u3093\u306a\u30df\u30ab\u30f3\u5927\u597d\u304d\u3060\u306d(*\u00b4\u03c9`*)\ud83c\udf4a\n12\u6708\u3082\u3088\u308d\u3057\u304f\u3067\u3059\u301c\n\nhttps://t.co/Nvuu64db4o",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/Nvuu64db4o",
+                        "expanded_url": "https://ani.chokume.com/",
+                        "display_url": "ani.chokume.com",
+                        "indices": [
+                            57,
+                            80
+                        ]
+                    }
+                ]
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 279901829,
+                "id_str": "279901829",
+                "name": "\u6850\u8c37\u8776\u3005\ud83c\udf41",
+                "screen_name": "choucho0115",
+                "location": "\u6771\u4eac",
+                "description": "\u30ca\u30ec\u30fc\u30bf\u30fc\u58f0\u512a\uff01\u5973\u6027 https://t.co/Xxe8ezVL0a \u4ed5\u4e8b\u4f9d\u983c\u306f\u732a\u9e7f\u8776\u25cf\u30c0\u30a6\u30f3\u30bf\u30a6\u30f3DX\uff08\u6728\u66dc22\u6642)/\u6709\u5409\u306e\u58c1/\u8131\u51fa\u5927\u5b66/TBS\u30ea\u30aa\u4e94\u8f2a\u3001\u5e73\u660c\u4e94\u8f2a/\u4e16\u754c\u6c34\u6cf3/\u4e16\u754c\u4f53\u64cd/\u4e16\u754c\u5353\u7403AbemaTV\u300eAbemaPrime\u300f\uff08\u6708\u30fb\u6c34\uff09/\u30a2\u30a4\u30c9\u30eb\u30de\u30b9\u30bf\u30fc \u5bae\u5c3e\u7f8e\u4e5f\u5f79/\u30ea\u30a2\u30eb\u8131\u51fa\u30b2\u30fc\u30e0TV",
+                "url": "https://t.co/PwPcBtRSjr",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/PwPcBtRSjr",
+                                "expanded_url": "http://choucho1515.wix.com/choucho-website",
+                                "display_url": "choucho1515.wix.com/choucho-website",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/Xxe8ezVL0a",
+                                "expanded_url": "http://Instagram.com/choucho_kiri",
+                                "display_url": "Instagram.com/choucho_kiri",
+                                "indices": [
+                                    11,
+                                    34
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "protected": false,
+                "followers_count": 43080,
+                "friends_count": 621,
+                "listed_count": 2205,
+                "created_at": "Sun Apr 10 07:17:40 +0000 2011",
+                "favourites_count": 7696,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 38551,
+                "lang": "ja",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1012715775830847488/O2amICFv_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1012715775830847488/O2amICFv_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/279901829/1540998793",
+                "profile_link_color": "FFA319",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 7,
+            "favorite_count": 22,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Sat Dec 08 06:53:03 +0000 2018",
+            "id": 1071296580072796161,
+            "id_str": "1071296580072796161",
+            "text": "RT @choucho0115: \u3010\u304a\u77e5\u3089\u305b \u30ca\u30ec\u30fc\u30b7\u30e7\u30f3\u30112018\u5e7412\u67088\u65e5\uff08\u571f\uff0916:30\uff5e\n\u6c34\u66dc\u30c9\u30e9\u30de\u300c\u7363\u306b\u306a\u308c\u306a\u3044\u79c1\u305f\u3061\u300d\u6700\u7d42\u56de\u306f\u7d76\u5bfe\u898b\u9003\u305b\u306a\u3044SP\n\n\u65b0\u57a3\u7d50\u8863\u00d7\u677e\u7530\u9f8d\u5e73\uff37\u4e3b\u6f14\u2026\u3044\u3088\u3044\u3088\u6765\u903112/12\u6700\u7d42\u56de\uff01 \u4eca\u307e\u3067\u6c17\u306b\u306a\u3063\u3066\u3044\u3066\u898b\u3089\u308c\u306a\u304b\u3063\u305f\u4eba\u3082\u4eca\u304b\u3089\u8ffd\u3044\u3064\u3051\u308b\u898b\u6240\u2026",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "choucho0115",
+                        "name": "\u6850\u8c37\u8776\u3005\ud83c\udf41",
+                        "id": 279901829,
+                        "id_str": "279901829",
+                        "indices": [
+                            3,
+                            15
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 279901829,
+                "id_str": "279901829",
+                "name": "\u6850\u8c37\u8776\u3005\ud83c\udf41",
+                "screen_name": "choucho0115",
+                "location": "\u6771\u4eac",
+                "description": "\u30ca\u30ec\u30fc\u30bf\u30fc\u58f0\u512a\uff01\u5973\u6027 https://t.co/Xxe8ezVL0a \u4ed5\u4e8b\u4f9d\u983c\u306f\u732a\u9e7f\u8776\u25cf\u30c0\u30a6\u30f3\u30bf\u30a6\u30f3DX\uff08\u6728\u66dc22\u6642)/\u6709\u5409\u306e\u58c1/\u8131\u51fa\u5927\u5b66/TBS\u30ea\u30aa\u4e94\u8f2a\u3001\u5e73\u660c\u4e94\u8f2a/\u4e16\u754c\u6c34\u6cf3/\u4e16\u754c\u4f53\u64cd/\u4e16\u754c\u5353\u7403AbemaTV\u300eAbemaPrime\u300f\uff08\u6708\u30fb\u6c34\uff09/\u30a2\u30a4\u30c9\u30eb\u30de\u30b9\u30bf\u30fc \u5bae\u5c3e\u7f8e\u4e5f\u5f79/\u30ea\u30a2\u30eb\u8131\u51fa\u30b2\u30fc\u30e0TV",
+                "url": "https://t.co/PwPcBtRSjr",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/PwPcBtRSjr",
+                                "expanded_url": "http://choucho1515.wix.com/choucho-website",
+                                "display_url": "choucho1515.wix.com/choucho-website",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/Xxe8ezVL0a",
+                                "expanded_url": "http://Instagram.com/choucho_kiri",
+                                "display_url": "Instagram.com/choucho_kiri",
+                                "indices": [
+                                    11,
+                                    34
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "protected": false,
+                "followers_count": 43080,
+                "friends_count": 621,
+                "listed_count": 2205,
+                "created_at": "Sun Apr 10 07:17:40 +0000 2011",
+                "favourites_count": 7696,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 38551,
+                "lang": "ja",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1012715775830847488/O2amICFv_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1012715775830847488/O2amICFv_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/279901829/1540998793",
+                "profile_link_color": "FFA319",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Sat Dec 08 02:28:04 +0000 2018",
+                "id": 1071229895177527296,
+                "id_str": "1071229895177527296",
+                "text": "\u3010\u304a\u77e5\u3089\u305b \u30ca\u30ec\u30fc\u30b7\u30e7\u30f3\u30112018\u5e7412\u67088\u65e5\uff08\u571f\uff0916:30\uff5e\n\u6c34\u66dc\u30c9\u30e9\u30de\u300c\u7363\u306b\u306a\u308c\u306a\u3044\u79c1\u305f\u3061\u300d\u6700\u7d42\u56de\u306f\u7d76\u5bfe\u898b\u9003\u305b\u306a\u3044SP\n\n\u65b0\u57a3\u7d50\u8863\u00d7\u677e\u7530\u9f8d\u5e73\uff37\u4e3b\u6f14\u2026\u3044\u3088\u3044\u3088\u6765\u903112/12\u6700\u7d42\u56de\uff01 \u4eca\u307e\u3067\u6c17\u306b\u306a\u3063\u3066\u3044\u3066\u898b\u3089\u308c\u306a\u304b\u3063\u305f\u4eba\u3082\u4eca\u304b\u3089\u2026 https://t.co/0IXoTmqdYY",
+                "truncated": true,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": [
+                        {
+                            "url": "https://t.co/0IXoTmqdYY",
+                            "expanded_url": "https://twitter.com/i/web/status/1071229895177527296",
+                            "display_url": "twitter.com/i/web/status/1\u2026",
+                            "indices": [
+                                117,
+                                140
+                            ]
+                        }
+                    ]
+                },
+                "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 279901829,
+                    "id_str": "279901829",
+                    "name": "\u6850\u8c37\u8776\u3005\ud83c\udf41",
+                    "screen_name": "choucho0115",
+                    "location": "\u6771\u4eac",
+                    "description": "\u30ca\u30ec\u30fc\u30bf\u30fc\u58f0\u512a\uff01\u5973\u6027 https://t.co/Xxe8ezVL0a \u4ed5\u4e8b\u4f9d\u983c\u306f\u732a\u9e7f\u8776\u25cf\u30c0\u30a6\u30f3\u30bf\u30a6\u30f3DX\uff08\u6728\u66dc22\u6642)/\u6709\u5409\u306e\u58c1/\u8131\u51fa\u5927\u5b66/TBS\u30ea\u30aa\u4e94\u8f2a\u3001\u5e73\u660c\u4e94\u8f2a/\u4e16\u754c\u6c34\u6cf3/\u4e16\u754c\u4f53\u64cd/\u4e16\u754c\u5353\u7403AbemaTV\u300eAbemaPrime\u300f\uff08\u6708\u30fb\u6c34\uff09/\u30a2\u30a4\u30c9\u30eb\u30de\u30b9\u30bf\u30fc \u5bae\u5c3e\u7f8e\u4e5f\u5f79/\u30ea\u30a2\u30eb\u8131\u51fa\u30b2\u30fc\u30e0TV",
+                    "url": "https://t.co/PwPcBtRSjr",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "url": "https://t.co/PwPcBtRSjr",
+                                    "expanded_url": "http://choucho1515.wix.com/choucho-website",
+                                    "display_url": "choucho1515.wix.com/choucho-website",
+                                    "indices": [
+                                        0,
+                                        23
+                                    ]
+                                }
+                            ]
+                        },
+                        "description": {
+                            "urls": [
+                                {
+                                    "url": "https://t.co/Xxe8ezVL0a",
+                                    "expanded_url": "http://Instagram.com/choucho_kiri",
+                                    "display_url": "Instagram.com/choucho_kiri",
+                                    "indices": [
+                                        11,
+                                        34
+                                    ]
+                                }
+                            ]
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 43080,
+                    "friends_count": 621,
+                    "listed_count": 2205,
+                    "created_at": "Sun Apr 10 07:17:40 +0000 2011",
+                    "favourites_count": 7696,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": false,
+                    "verified": false,
+                    "statuses_count": 38551,
+                    "lang": "ja",
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "C0DEED",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_tile": true,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1012715775830847488/O2amICFv_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1012715775830847488/O2amICFv_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/279901829/1540998793",
+                    "profile_link_color": "FFA319",
+                    "profile_sidebar_border_color": "C0DEED",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "has_extended_profile": true,
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "following": false,
+                    "follow_request_sent": false,
+                    "notifications": false,
+                    "translator_type": "none"
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 33,
+                "favorite_count": 76,
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "ja"
+            },
+            "is_quote_status": false,
+            "retweet_count": 33,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Sat Dec 08 04:32:04 +0000 2018",
+            "id": 1071261103970086912,
+            "id_str": "1071261103970086912",
+            "text": "@LT_hosaka \u306c\u3044\u3050\u308b\u307f \u307f\u305f\u3044\u3067\u3059\u306d\ud83d\ude33\ud83d\ude33\ud83d\ude33\u53ef\u611b\u3044\u301c\u263a\ufe0f",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "LT_hosaka",
+                        "name": "\u30e9\u30f3\u30c6\u30a3\u30b9\u4fdd\u5742",
+                        "id": 843466878794137600,
+                        "id_str": "843466878794137600",
+                        "indices": [
+                            0,
+                            10
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": 1071221986800484352,
+            "in_reply_to_status_id_str": "1071221986800484352",
+            "in_reply_to_user_id": 843466878794137600,
+            "in_reply_to_user_id_str": "843466878794137600",
+            "in_reply_to_screen_name": "LT_hosaka",
+            "user": {
+                "id": 279901829,
+                "id_str": "279901829",
+                "name": "\u6850\u8c37\u8776\u3005\ud83c\udf41",
+                "screen_name": "choucho0115",
+                "location": "\u6771\u4eac",
+                "description": "\u30ca\u30ec\u30fc\u30bf\u30fc\u58f0\u512a\uff01\u5973\u6027 https://t.co/Xxe8ezVL0a \u4ed5\u4e8b\u4f9d\u983c\u306f\u732a\u9e7f\u8776\u25cf\u30c0\u30a6\u30f3\u30bf\u30a6\u30f3DX\uff08\u6728\u66dc22\u6642)/\u6709\u5409\u306e\u58c1/\u8131\u51fa\u5927\u5b66/TBS\u30ea\u30aa\u4e94\u8f2a\u3001\u5e73\u660c\u4e94\u8f2a/\u4e16\u754c\u6c34\u6cf3/\u4e16\u754c\u4f53\u64cd/\u4e16\u754c\u5353\u7403AbemaTV\u300eAbemaPrime\u300f\uff08\u6708\u30fb\u6c34\uff09/\u30a2\u30a4\u30c9\u30eb\u30de\u30b9\u30bf\u30fc \u5bae\u5c3e\u7f8e\u4e5f\u5f79/\u30ea\u30a2\u30eb\u8131\u51fa\u30b2\u30fc\u30e0TV",
+                "url": "https://t.co/PwPcBtRSjr",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/PwPcBtRSjr",
+                                "expanded_url": "http://choucho1515.wix.com/choucho-website",
+                                "display_url": "choucho1515.wix.com/choucho-website",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/Xxe8ezVL0a",
+                                "expanded_url": "http://Instagram.com/choucho_kiri",
+                                "display_url": "Instagram.com/choucho_kiri",
+                                "indices": [
+                                    11,
+                                    34
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "protected": false,
+                "followers_count": 43080,
+                "friends_count": 621,
+                "listed_count": 2205,
+                "created_at": "Sun Apr 10 07:17:40 +0000 2011",
+                "favourites_count": 7696,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 38551,
+                "lang": "ja",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1012715775830847488/O2amICFv_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1012715775830847488/O2amICFv_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/279901829/1540998793",
+                "profile_link_color": "FFA319",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 6,
+            "favorite_count": 26,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Sat Dec 08 03:21:02 +0000 2018",
+            "id": 1071243225690628096,
+            "id_str": "1071243225690628096",
+            "text": "RT @kemonare_ntv: \ud83c\udf7a\u51fa\u6f14\u60c5\u5831\ud83c\udf7a\n \u4eca\u65e516:30\uff5e17:00(\u4e00\u90e8\u5730\u57df\u9664\u304f)\n \u300c#\u7363\u306b\u306a\u308c\u306a\u3044\u79c1\u305f\u3061 \u6700\u7d42\u56de\u306f\u7d76\u5bfe\u898b\u9003\u305b\u306a\u3044SP\u300d\n #\u3051\u3082\u306a\u308c \u3092\u898b\u9003\u3057\u3066\u3044\u3066\u305a\u3063\u3068\u6c17\u306b\u306a\u3063\u3066\u3044\u305f\u65b9\u3082\u3001\u521d\u56de\u304b\u3089\u898b\u3066\u304f\u308c\u3066\u3044\u305f\u65b9\u3082\u3001\u307f\u3093\u306a\u5fc5\u898b\u306ePR\u756a\u7d44\u3067\u3059\u203c\ufe0f\n#\u65b0\u57a3\u7d50\u8863 #\u2026",
+            "truncated": false,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "\u7363\u306b\u306a\u308c\u306a\u3044\u79c1\u305f\u3061",
+                        "indices": [
+                            50,
+                            60
+                        ]
+                    },
+                    {
+                        "text": "\u3051\u3082\u306a\u308c",
+                        "indices": [
+                            77,
+                            82
+                        ]
+                    },
+                    {
+                        "text": "\u65b0\u57a3\u7d50\u8863",
+                        "indices": [
+                            132,
+                            137
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "kemonare_ntv",
+                        "name": "\u3010\u516c\u5f0f\u3011\u7363\u306b\u306a\u308c\u306a\u3044\u79c1\u305f\u3061",
+                        "id": 1028807043283443717,
+                        "id_str": "1028807043283443717",
+                        "indices": [
+                            3,
+                            16
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 279901829,
+                "id_str": "279901829",
+                "name": "\u6850\u8c37\u8776\u3005\ud83c\udf41",
+                "screen_name": "choucho0115",
+                "location": "\u6771\u4eac",
+                "description": "\u30ca\u30ec\u30fc\u30bf\u30fc\u58f0\u512a\uff01\u5973\u6027 https://t.co/Xxe8ezVL0a \u4ed5\u4e8b\u4f9d\u983c\u306f\u732a\u9e7f\u8776\u25cf\u30c0\u30a6\u30f3\u30bf\u30a6\u30f3DX\uff08\u6728\u66dc22\u6642)/\u6709\u5409\u306e\u58c1/\u8131\u51fa\u5927\u5b66/TBS\u30ea\u30aa\u4e94\u8f2a\u3001\u5e73\u660c\u4e94\u8f2a/\u4e16\u754c\u6c34\u6cf3/\u4e16\u754c\u4f53\u64cd/\u4e16\u754c\u5353\u7403AbemaTV\u300eAbemaPrime\u300f\uff08\u6708\u30fb\u6c34\uff09/\u30a2\u30a4\u30c9\u30eb\u30de\u30b9\u30bf\u30fc \u5bae\u5c3e\u7f8e\u4e5f\u5f79/\u30ea\u30a2\u30eb\u8131\u51fa\u30b2\u30fc\u30e0TV",
+                "url": "https://t.co/PwPcBtRSjr",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/PwPcBtRSjr",
+                                "expanded_url": "http://choucho1515.wix.com/choucho-website",
+                                "display_url": "choucho1515.wix.com/choucho-website",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/Xxe8ezVL0a",
+                                "expanded_url": "http://Instagram.com/choucho_kiri",
+                                "display_url": "Instagram.com/choucho_kiri",
+                                "indices": [
+                                    11,
+                                    34
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "protected": false,
+                "followers_count": 43080,
+                "friends_count": 621,
+                "listed_count": 2205,
+                "created_at": "Sun Apr 10 07:17:40 +0000 2011",
+                "favourites_count": 7696,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 38551,
+                "lang": "ja",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1012715775830847488/O2amICFv_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1012715775830847488/O2amICFv_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/279901829/1540998793",
+                "profile_link_color": "FFA319",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Sat Dec 08 00:30:06 +0000 2018",
+                "id": 1071200208430616576,
+                "id_str": "1071200208430616576",
+                "text": "\ud83c\udf7a\u51fa\u6f14\u60c5\u5831\ud83c\udf7a\n \u4eca\u65e516:30\uff5e17:00(\u4e00\u90e8\u5730\u57df\u9664\u304f)\n \u300c#\u7363\u306b\u306a\u308c\u306a\u3044\u79c1\u305f\u3061 \u6700\u7d42\u56de\u306f\u7d76\u5bfe\u898b\u9003\u305b\u306a\u3044SP\u300d\n #\u3051\u3082\u306a\u308c \u3092\u898b\u9003\u3057\u3066\u3044\u3066\u305a\u3063\u3068\u6c17\u306b\u306a\u3063\u3066\u3044\u305f\u65b9\u3082\u3001\u521d\u56de\u304b\u3089\u898b\u3066\u304f\u308c\u3066\u3044\u305f\u65b9\u3082\u3001\u307f\u3093\u306a\u5fc5\u898b\u306ePR\u756a\u7d44\u3067\u3059\u203c\ufe0f\u2026 https://t.co/x9q8t4cU8U",
+                "truncated": true,
+                "entities": {
+                    "hashtags": [
+                        {
+                            "text": "\u7363\u306b\u306a\u308c\u306a\u3044\u79c1\u305f\u3061",
+                            "indices": [
+                                32,
+                                42
+                            ]
+                        },
+                        {
+                            "text": "\u3051\u3082\u306a\u308c",
+                            "indices": [
+                                59,
+                                64
+                            ]
+                        }
+                    ],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": [
+                        {
+                            "url": "https://t.co/x9q8t4cU8U",
+                            "expanded_url": "https://twitter.com/i/web/status/1071200208430616576",
+                            "display_url": "twitter.com/i/web/status/1\u2026",
+                            "indices": [
+                                115,
+                                138
+                            ]
+                        }
+                    ]
+                },
+                "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 1028807043283443717,
+                    "id_str": "1028807043283443717",
+                    "name": "\u3010\u516c\u5f0f\u3011\u7363\u306b\u306a\u308c\u306a\u3044\u79c1\u305f\u3061",
+                    "screen_name": "kemonare_ntv",
+                    "location": "\u65e5\u672c\u30c6\u30ec\u30d3",
+                    "description": "\u5e38\u306b\u7b11\u9854\u3067\u5fc3\u3092\u3059\u308a\u6e1b\u3089\u3059\u5973\u3068\u3001\u5e38\u306b\u30ed\u30b8\u30ab\u30eb\u306a\u6bd2\u820c\u7537\uff01 #\u65b0\u57a3\u7d50\u8863 \u00d7 #\u677e\u7530\u9f8d\u5e73 W\u4e3b\u6f14 \u811a\u672c #\u91ce\u6728\u4e9c\u7d00\u5b50 \u81ea\u7531\u306b\u672c\u80fd\u306e\u307e\u307e\u751f\u304d\u3089\u308c\u306a\u3044\u982d\u3067\u3063\u304b\u3061\u306a2\u4eba\u306e\u7b11\u3048\u3066\u5207\u306a\u3044\u300e\u30e9\u30d6\u304b\u3082\u3057\u308c\u306a\u3044\u30b9\u30c8\u30fc\u30ea\u30fc\u300f #\u7530\u4e2d\u572d #\u9ed2\u6728\u83ef #\u83ca\u5730\u51db\u5b50 #\u7530\u4e2d\u7f8e\u4f50\u5b50 #\u677e\u5c3e\u8cb4\u53f2 #\u5c71\u5185\u572d\u54c9 #\u72ac\u98fc\u8cb4\u4e08 #\u4f0a\u85e4\u6c99\u8389 #\u8fd1\u85e4\u516c\u5712 #\u4e00\u30ce\u702c\u30ef\u30bf\u30eb",
+                    "url": "https://t.co/zYYYTamUEG",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "url": "https://t.co/zYYYTamUEG",
+                                    "expanded_url": "https://www.ntv.co.jp/kemonare/",
+                                    "display_url": "ntv.co.jp/kemonare/",
+                                    "indices": [
+                                        0,
+                                        23
+                                    ]
+                                }
+                            ]
+                        },
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 107111,
+                    "friends_count": 21,
+                    "listed_count": 340,
+                    "created_at": "Mon Aug 13 00:54:48 +0000 2018",
+                    "favourites_count": 1,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": false,
+                    "verified": false,
+                    "statuses_count": 762,
+                    "lang": "ja",
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "F5F8FA",
+                    "profile_background_image_url": null,
+                    "profile_background_image_url_https": null,
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1044784760554307585/8ScbVpnN_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1044784760554307585/8ScbVpnN_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1028807043283443717/1539181389",
+                    "profile_link_color": "1DA1F2",
+                    "profile_sidebar_border_color": "C0DEED",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "has_extended_profile": false,
+                    "default_profile": true,
+                    "default_profile_image": false,
+                    "following": false,
+                    "follow_request_sent": false,
+                    "notifications": false,
+                    "translator_type": "none"
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 337,
+                "favorite_count": 1930,
+                "favorited": false,
+                "retweeted": false,
+                "lang": "ja"
+            },
+            "is_quote_status": false,
+            "retweet_count": 337,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Sat Dec 08 03:20:08 +0000 2018",
+            "id": 1071242997600141312,
+            "id_str": "1071242997600141312",
+            "text": "@todamegumi \u6238\u7530\u3061\u3083\u3093\u304a\u3081\u3067\u3068\u3046\u301c\u301c\ud83c\udf89\n\u3081\u3061\u3083\u7dba\u9e97\u30fc\u30fc\uff01(//\u2200//)",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "todamegumi",
+                        "name": "\u6238\u7530\u3081\u3050\u307f",
+                        "id": 309583380,
+                        "id_str": "309583380",
+                        "indices": [
+                            0,
+                            11
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": 1071063399830740992,
+            "in_reply_to_status_id_str": "1071063399830740992",
+            "in_reply_to_user_id": 309583380,
+            "in_reply_to_user_id_str": "309583380",
+            "in_reply_to_screen_name": "todamegumi",
+            "user": {
+                "id": 279901829,
+                "id_str": "279901829",
+                "name": "\u6850\u8c37\u8776\u3005\ud83c\udf41",
+                "screen_name": "choucho0115",
+                "location": "\u6771\u4eac",
+                "description": "\u30ca\u30ec\u30fc\u30bf\u30fc\u58f0\u512a\uff01\u5973\u6027 https://t.co/Xxe8ezVL0a \u4ed5\u4e8b\u4f9d\u983c\u306f\u732a\u9e7f\u8776\u25cf\u30c0\u30a6\u30f3\u30bf\u30a6\u30f3DX\uff08\u6728\u66dc22\u6642)/\u6709\u5409\u306e\u58c1/\u8131\u51fa\u5927\u5b66/TBS\u30ea\u30aa\u4e94\u8f2a\u3001\u5e73\u660c\u4e94\u8f2a/\u4e16\u754c\u6c34\u6cf3/\u4e16\u754c\u4f53\u64cd/\u4e16\u754c\u5353\u7403AbemaTV\u300eAbemaPrime\u300f\uff08\u6708\u30fb\u6c34\uff09/\u30a2\u30a4\u30c9\u30eb\u30de\u30b9\u30bf\u30fc \u5bae\u5c3e\u7f8e\u4e5f\u5f79/\u30ea\u30a2\u30eb\u8131\u51fa\u30b2\u30fc\u30e0TV",
+                "url": "https://t.co/PwPcBtRSjr",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/PwPcBtRSjr",
+                                "expanded_url": "http://choucho1515.wix.com/choucho-website",
+                                "display_url": "choucho1515.wix.com/choucho-website",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/Xxe8ezVL0a",
+                                "expanded_url": "http://Instagram.com/choucho_kiri",
+                                "display_url": "Instagram.com/choucho_kiri",
+                                "indices": [
+                                    11,
+                                    34
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "protected": false,
+                "followers_count": 43080,
+                "friends_count": 621,
+                "listed_count": 2205,
+                "created_at": "Sun Apr 10 07:17:40 +0000 2011",
+                "favourites_count": 7696,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 38551,
+                "lang": "ja",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1012715775830847488/O2amICFv_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1012715775830847488/O2amICFv_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/279901829/1540998793",
+                "profile_link_color": "FFA319",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 5,
+            "favorite_count": 68,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Sat Dec 08 02:28:04 +0000 2018",
+            "id": 1071229895177527296,
+            "id_str": "1071229895177527296",
+            "text": "\u3010\u304a\u77e5\u3089\u305b \u30ca\u30ec\u30fc\u30b7\u30e7\u30f3\u30112018\u5e7412\u67088\u65e5\uff08\u571f\uff0916:30\uff5e\n\u6c34\u66dc\u30c9\u30e9\u30de\u300c\u7363\u306b\u306a\u308c\u306a\u3044\u79c1\u305f\u3061\u300d\u6700\u7d42\u56de\u306f\u7d76\u5bfe\u898b\u9003\u305b\u306a\u3044SP\n\n\u65b0\u57a3\u7d50\u8863\u00d7\u677e\u7530\u9f8d\u5e73\uff37\u4e3b\u6f14\u2026\u3044\u3088\u3044\u3088\u6765\u903112/12\u6700\u7d42\u56de\uff01 \u4eca\u307e\u3067\u6c17\u306b\u306a\u3063\u3066\u3044\u3066\u898b\u3089\u308c\u306a\u304b\u3063\u305f\u4eba\u3082\u4eca\u304b\u3089\u2026 https://t.co/0IXoTmqdYY",
+            "truncated": true,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/0IXoTmqdYY",
+                        "expanded_url": "https://twitter.com/i/web/status/1071229895177527296",
+                        "display_url": "twitter.com/i/web/status/1\u2026",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ]
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 279901829,
+                "id_str": "279901829",
+                "name": "\u6850\u8c37\u8776\u3005\ud83c\udf41",
+                "screen_name": "choucho0115",
+                "location": "\u6771\u4eac",
+                "description": "\u30ca\u30ec\u30fc\u30bf\u30fc\u58f0\u512a\uff01\u5973\u6027 https://t.co/Xxe8ezVL0a \u4ed5\u4e8b\u4f9d\u983c\u306f\u732a\u9e7f\u8776\u25cf\u30c0\u30a6\u30f3\u30bf\u30a6\u30f3DX\uff08\u6728\u66dc22\u6642)/\u6709\u5409\u306e\u58c1/\u8131\u51fa\u5927\u5b66/TBS\u30ea\u30aa\u4e94\u8f2a\u3001\u5e73\u660c\u4e94\u8f2a/\u4e16\u754c\u6c34\u6cf3/\u4e16\u754c\u4f53\u64cd/\u4e16\u754c\u5353\u7403AbemaTV\u300eAbemaPrime\u300f\uff08\u6708\u30fb\u6c34\uff09/\u30a2\u30a4\u30c9\u30eb\u30de\u30b9\u30bf\u30fc \u5bae\u5c3e\u7f8e\u4e5f\u5f79/\u30ea\u30a2\u30eb\u8131\u51fa\u30b2\u30fc\u30e0TV",
+                "url": "https://t.co/PwPcBtRSjr",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/PwPcBtRSjr",
+                                "expanded_url": "http://choucho1515.wix.com/choucho-website",
+                                "display_url": "choucho1515.wix.com/choucho-website",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/Xxe8ezVL0a",
+                                "expanded_url": "http://Instagram.com/choucho_kiri",
+                                "display_url": "Instagram.com/choucho_kiri",
+                                "indices": [
+                                    11,
+                                    34
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "protected": false,
+                "followers_count": 43080,
+                "friends_count": 621,
+                "listed_count": 2205,
+                "created_at": "Sun Apr 10 07:17:40 +0000 2011",
+                "favourites_count": 7696,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 38551,
+                "lang": "ja",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1012715775830847488/O2amICFv_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1012715775830847488/O2amICFv_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/279901829/1540998793",
+                "profile_link_color": "FFA319",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 33,
+            "favorite_count": 76,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Fri Dec 07 23:36:47 +0000 2018",
+            "id": 1071186790760046592,
+            "id_str": "1071186790760046592",
+            "text": "@ousakichiyo \u3042\u308a\u304c\u3068\u3046\ud83d\ude0a\u305f\u306e\u3057\u307f\u30fc\uff01",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "ousakichiyo",
+                        "name": "\u685c\u54b2\u5343\u4f9d",
+                        "id": 123847124,
+                        "id_str": "123847124",
+                        "indices": [
+                            0,
+                            12
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": 1070646434981007361,
+            "in_reply_to_status_id_str": "1070646434981007361",
+            "in_reply_to_user_id": 123847124,
+            "in_reply_to_user_id_str": "123847124",
+            "in_reply_to_screen_name": "ousakichiyo",
+            "user": {
+                "id": 279901829,
+                "id_str": "279901829",
+                "name": "\u6850\u8c37\u8776\u3005\ud83c\udf41",
+                "screen_name": "choucho0115",
+                "location": "\u6771\u4eac",
+                "description": "\u30ca\u30ec\u30fc\u30bf\u30fc\u58f0\u512a\uff01\u5973\u6027 https://t.co/Xxe8ezVL0a \u4ed5\u4e8b\u4f9d\u983c\u306f\u732a\u9e7f\u8776\u25cf\u30c0\u30a6\u30f3\u30bf\u30a6\u30f3DX\uff08\u6728\u66dc22\u6642)/\u6709\u5409\u306e\u58c1/\u8131\u51fa\u5927\u5b66/TBS\u30ea\u30aa\u4e94\u8f2a\u3001\u5e73\u660c\u4e94\u8f2a/\u4e16\u754c\u6c34\u6cf3/\u4e16\u754c\u4f53\u64cd/\u4e16\u754c\u5353\u7403AbemaTV\u300eAbemaPrime\u300f\uff08\u6708\u30fb\u6c34\uff09/\u30a2\u30a4\u30c9\u30eb\u30de\u30b9\u30bf\u30fc \u5bae\u5c3e\u7f8e\u4e5f\u5f79/\u30ea\u30a2\u30eb\u8131\u51fa\u30b2\u30fc\u30e0TV",
+                "url": "https://t.co/PwPcBtRSjr",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/PwPcBtRSjr",
+                                "expanded_url": "http://choucho1515.wix.com/choucho-website",
+                                "display_url": "choucho1515.wix.com/choucho-website",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/Xxe8ezVL0a",
+                                "expanded_url": "http://Instagram.com/choucho_kiri",
+                                "display_url": "Instagram.com/choucho_kiri",
+                                "indices": [
+                                    11,
+                                    34
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "protected": false,
+                "followers_count": 43080,
+                "friends_count": 621,
+                "listed_count": 2205,
+                "created_at": "Sun Apr 10 07:17:40 +0000 2011",
+                "favourites_count": 7696,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 38551,
+                "lang": "ja",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1012715775830847488/O2amICFv_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1012715775830847488/O2amICFv_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/279901829/1540998793",
+                "profile_link_color": "FFA319",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 7,
+            "favorite_count": 35,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Fri Dec 07 23:36:31 +0000 2018",
+            "id": 1071186724376666112,
+            "id_str": "1071186724376666112",
+            "text": "RT @ousakichiyo: \u3010\u304a\u3057\u3089\u305b\u3011\n\n\u6850\u8c37\u8776\u3005\u3061\u3083\u3093\u3068\u5e73\u5c71\u7b11\u7f8e\u3055\u3093\u306eFluffy \u30e9\u30b8\u30aa\u306b\u685c\u54b2\u5343\u4f9d\u30b2\u30b9\u30c8\u51fa\u6f14\u3055\u305b\u3066\u3044\u305f\u3060\u304d\u307e\u3059(*\uff9f\u25bd\uff9f*)\ud83c\udf38\ud83c\udf38\ud83c\udf38\n\n\u697d\u3057\u307f\uff5e(*\u00b4\u03c9\uff40*)\n\u304a\u4fbf\u308a\u3082\u304a\u5f85\u3061\u3057\u3066\u307e\u3059\ud83c\udf38\n\u3088\u308d\u3057\u304f\u304a\u9858\u3044\u3057\u307e\u3059\u30fc\uff01\u2764\n\n#\u3075\u3089\u3066\u3043 https://t.co\u2026",
+            "truncated": false,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "\u3075\u3089\u3066\u3043",
+                        "indices": [
+                            121,
+                            126
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "ousakichiyo",
+                        "name": "\u685c\u54b2\u5343\u4f9d",
+                        "id": 123847124,
+                        "id_str": "123847124",
+                        "indices": [
+                            3,
+                            15
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 279901829,
+                "id_str": "279901829",
+                "name": "\u6850\u8c37\u8776\u3005\ud83c\udf41",
+                "screen_name": "choucho0115",
+                "location": "\u6771\u4eac",
+                "description": "\u30ca\u30ec\u30fc\u30bf\u30fc\u58f0\u512a\uff01\u5973\u6027 https://t.co/Xxe8ezVL0a \u4ed5\u4e8b\u4f9d\u983c\u306f\u732a\u9e7f\u8776\u25cf\u30c0\u30a6\u30f3\u30bf\u30a6\u30f3DX\uff08\u6728\u66dc22\u6642)/\u6709\u5409\u306e\u58c1/\u8131\u51fa\u5927\u5b66/TBS\u30ea\u30aa\u4e94\u8f2a\u3001\u5e73\u660c\u4e94\u8f2a/\u4e16\u754c\u6c34\u6cf3/\u4e16\u754c\u4f53\u64cd/\u4e16\u754c\u5353\u7403AbemaTV\u300eAbemaPrime\u300f\uff08\u6708\u30fb\u6c34\uff09/\u30a2\u30a4\u30c9\u30eb\u30de\u30b9\u30bf\u30fc \u5bae\u5c3e\u7f8e\u4e5f\u5f79/\u30ea\u30a2\u30eb\u8131\u51fa\u30b2\u30fc\u30e0TV",
+                "url": "https://t.co/PwPcBtRSjr",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/PwPcBtRSjr",
+                                "expanded_url": "http://choucho1515.wix.com/choucho-website",
+                                "display_url": "choucho1515.wix.com/choucho-website",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/Xxe8ezVL0a",
+                                "expanded_url": "http://Instagram.com/choucho_kiri",
+                                "display_url": "Instagram.com/choucho_kiri",
+                                "indices": [
+                                    11,
+                                    34
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "protected": false,
+                "followers_count": 43080,
+                "friends_count": 621,
+                "listed_count": 2205,
+                "created_at": "Sun Apr 10 07:17:40 +0000 2011",
+                "favourites_count": 7696,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 38551,
+                "lang": "ja",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1012715775830847488/O2amICFv_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1012715775830847488/O2amICFv_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/279901829/1540998793",
+                "profile_link_color": "FFA319",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Thu Dec 06 11:49:36 +0000 2018",
+                "id": 1070646434981007361,
+                "id_str": "1070646434981007361",
+                "text": "\u3010\u304a\u3057\u3089\u305b\u3011\n\n\u6850\u8c37\u8776\u3005\u3061\u3083\u3093\u3068\u5e73\u5c71\u7b11\u7f8e\u3055\u3093\u306eFluffy \u30e9\u30b8\u30aa\u306b\u685c\u54b2\u5343\u4f9d\u30b2\u30b9\u30c8\u51fa\u6f14\u3055\u305b\u3066\u3044\u305f\u3060\u304d\u307e\u3059(*\uff9f\u25bd\uff9f*)\ud83c\udf38\ud83c\udf38\ud83c\udf38\n\n\u697d\u3057\u307f\uff5e(*\u00b4\u03c9\uff40*)\n\u304a\u4fbf\u308a\u3082\u304a\u5f85\u3061\u3057\u3066\u307e\u3059\ud83c\udf38\n\u3088\u308d\u3057\u304f\u304a\u9858\u3044\u3057\u307e\u3059\u30fc\uff01\u2764\n\n#\u3075\u3089\u3066\u3043 https://t.co/MPhPgGCkew",
+                "truncated": false,
+                "entities": {
+                    "hashtags": [
+                        {
+                            "text": "\u3075\u3089\u3066\u3043",
+                            "indices": [
+                                104,
+                                109
+                            ]
+                        }
+                    ],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": [
+                        {
+                            "url": "https://t.co/MPhPgGCkew",
+                            "expanded_url": "https://twitter.com/choucho0115/status/1070602365508567040",
+                            "display_url": "twitter.com/choucho0115/st\u2026",
+                            "indices": [
+                                110,
+                                133
+                            ]
+                        }
+                    ]
+                },
+                "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 123847124,
+                    "id_str": "123847124",
+                    "name": "\u685c\u54b2\u5343\u4f9d",
+                    "screen_name": "ousakichiyo",
+                    "location": "",
+                    "description": "\u682a\u5f0f\u4f1a\u793e\u30d6\u30eb\u30fc\u30e0\u30ba\u696d\u52d9\u63d0\u643a(https://t.co/tcj8pCpTEs) \u58f0\u306e\u304a\u4ed5\u4e8b\u3057\u3066\u307e\u3059\u3002\u821e\u53f0\u3084DJ\u3084WS\u3084\u4f5c\u8a5e\u3057\u305f\u308a\u6b4c\u3063\u305f\u308a...\u30c9\u30e9\u30e0\u3082\u59cb\u3081\u307e\u3057\u305f(\u00b4\u02d8`\uff0a)\u2665\u611b\u732b\u3001\u3046\u306b\uff06\u3042\u3055\u308a\u3068\u307e\u3063\u305f\u308a\u66ae\u3089\u3057\u3066\u307e\u3059(*\u00b4\u03c9\uff40*)\u30a2\u30eb\u30d1\u30ab\u597d\u304d\u30dd\u30e0\u30dd\u30e0\u30d7\u30ea\u30f3\u3082\u597d\u304d\u30bb\u30f3\u30c1\u30e1\u30f3\u30bf\u30eb\u30b5\u30fc\u30ab\u30b9\u3082\u597d\u304d\u2665\u307f\u3093\u306a\u597d\u304d",
+                    "url": "https://t.co/tHyo4bIYi6",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "url": "https://t.co/tHyo4bIYi6",
+                                    "expanded_url": "https://lineblog.me/ousakichiyo/",
+                                    "display_url": "lineblog.me/ousakichiyo/",
+                                    "indices": [
+                                        0,
+                                        23
+                                    ]
+                                }
+                            ]
+                        },
+                        "description": {
+                            "urls": [
+                                {
+                                    "url": "https://t.co/tcj8pCpTEs",
+                                    "expanded_url": "https://www.bloomz.com.mx/",
+                                    "display_url": "bloomz.com.mx",
+                                    "indices": [
+                                        14,
+                                        37
+                                    ]
+                                }
+                            ]
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 70716,
+                    "friends_count": 495,
+                    "listed_count": 3485,
+                    "created_at": "Wed Mar 17 11:46:43 +0000 2010",
+                    "favourites_count": 1175,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": false,
+                    "verified": false,
+                    "statuses_count": 61102,
+                    "lang": "ja",
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "FFF04D",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+                    "profile_background_tile": true,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1047712100833931264/ncnQ3yoR_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1047712100833931264/ncnQ3yoR_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/123847124/1538321143",
+                    "profile_link_color": "F5ABB5",
+                    "profile_sidebar_border_color": "FFF8AD",
+                    "profile_sidebar_fill_color": "F6FFD1",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "has_extended_profile": true,
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "following": false,
+                    "follow_request_sent": false,
+                    "notifications": false,
+                    "translator_type": "none"
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": true,
+                "quoted_status_id": 1070602365508567040,
+                "quoted_status_id_str": "1070602365508567040",
+                "quoted_status": {
+                    "created_at": "Thu Dec 06 08:54:29 +0000 2018",
+                    "id": 1070602365508567040,
+                    "id_str": "1070602365508567040",
+                    "text": "\u3010Fluffy \u30e9\u30b8\u30aa\u306b\u521d\u30b2\u30b9\u30c8\uff01\u3011\n\n\u7b2c5\u56deFluffy \u30e9\u30b8\u30aa\u306b\u300c\u685c\u54b2\u5343\u4f9d\u3055\u3093\u300d\u51fa\u6f14\u6c7a\u5b9a\uff01\ud83c\udf38\n\n\u30b2\u30b9\u30c8\u5b9b\u306e\u30e1\u30fc\u30eb\u3092\u5927\u52df\u96c6\u3057\u307e\u3059\uff01\n\u30b2\u30b9\u30c8\u3078\u306e\u30e1\u30c3\u30bb\u30fc\u30b8\u306a\u3069\u3001\u3069\u3057\u3069\u3057\u304a\u5f85\u3061\u3057\u3066\u3044\u307e\u3059\u30fc\u30fc\u30fc\uff01(*\u00b4\u03c9`*)\ud83c\udf38\ud83c\udf38\ud83c\udf38\n\n#\u3075\u3089\u3066\u3043\n\u6850\u2026 https://t.co/6EqyXiOvx3",
+                    "truncated": true,
+                    "entities": {
+                        "hashtags": [
+                            {
+                                "text": "\u3075\u3089\u3066\u3043",
+                                "indices": [
+                                    108,
+                                    113
+                                ]
+                            }
+                        ],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": [
+                            {
+                                "url": "https://t.co/6EqyXiOvx3",
+                                "expanded_url": "https://twitter.com/i/web/status/1070602365508567040",
+                                "display_url": "twitter.com/i/web/status/1\u2026",
+                                "indices": [
+                                    117,
+                                    140
+                                ]
+                            }
+                        ]
+                    },
+                    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                    "in_reply_to_status_id": null,
+                    "in_reply_to_status_id_str": null,
+                    "in_reply_to_user_id": null,
+                    "in_reply_to_user_id_str": null,
+                    "in_reply_to_screen_name": null,
+                    "user": {
+                        "id": 279901829,
+                        "id_str": "279901829",
+                        "name": "\u6850\u8c37\u8776\u3005\ud83c\udf41",
+                        "screen_name": "choucho0115",
+                        "location": "\u6771\u4eac",
+                        "description": "\u30ca\u30ec\u30fc\u30bf\u30fc\u58f0\u512a\uff01\u5973\u6027 https://t.co/Xxe8ezVL0a \u4ed5\u4e8b\u4f9d\u983c\u306f\u732a\u9e7f\u8776\u25cf\u30c0\u30a6\u30f3\u30bf\u30a6\u30f3DX\uff08\u6728\u66dc22\u6642)/\u6709\u5409\u306e\u58c1/\u8131\u51fa\u5927\u5b66/TBS\u30ea\u30aa\u4e94\u8f2a\u3001\u5e73\u660c\u4e94\u8f2a/\u4e16\u754c\u6c34\u6cf3/\u4e16\u754c\u4f53\u64cd/\u4e16\u754c\u5353\u7403AbemaTV\u300eAbemaPrime\u300f\uff08\u6708\u30fb\u6c34\uff09/\u30a2\u30a4\u30c9\u30eb\u30de\u30b9\u30bf\u30fc \u5bae\u5c3e\u7f8e\u4e5f\u5f79/\u30ea\u30a2\u30eb\u8131\u51fa\u30b2\u30fc\u30e0TV",
+                        "url": "https://t.co/PwPcBtRSjr",
+                        "entities": {
+                            "url": {
+                                "urls": [
+                                    {
+                                        "url": "https://t.co/PwPcBtRSjr",
+                                        "expanded_url": "http://choucho1515.wix.com/choucho-website",
+                                        "display_url": "choucho1515.wix.com/choucho-website",
+                                        "indices": [
+                                            0,
+                                            23
+                                        ]
+                                    }
+                                ]
+                            },
+                            "description": {
+                                "urls": [
+                                    {
+                                        "url": "https://t.co/Xxe8ezVL0a",
+                                        "expanded_url": "http://Instagram.com/choucho_kiri",
+                                        "display_url": "Instagram.com/choucho_kiri",
+                                        "indices": [
+                                            11,
+                                            34
+                                        ]
+                                    }
+                                ]
+                            }
+                        },
+                        "protected": false,
+                        "followers_count": 43080,
+                        "friends_count": 621,
+                        "listed_count": 2205,
+                        "created_at": "Sun Apr 10 07:17:40 +0000 2011",
+                        "favourites_count": 7696,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": false,
+                        "verified": false,
+                        "statuses_count": 38551,
+                        "lang": "ja",
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "C0DEED",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_tile": true,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1012715775830847488/O2amICFv_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1012715775830847488/O2amICFv_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/279901829/1540998793",
+                        "profile_link_color": "FFA319",
+                        "profile_sidebar_border_color": "C0DEED",
+                        "profile_sidebar_fill_color": "DDEEF6",
+                        "profile_text_color": "333333",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": true,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": false,
+                        "follow_request_sent": false,
+                        "notifications": false,
+                        "translator_type": "none"
+                    },
+                    "geo": null,
+                    "coordinates": null,
+                    "place": null,
+                    "contributors": null,
+                    "is_quote_status": false,
+                    "retweet_count": 107,
+                    "favorite_count": 168,
+                    "favorited": false,
+                    "retweeted": false,
+                    "possibly_sensitive": false,
+                    "lang": "ja"
+                },
+                "retweet_count": 152,
+                "favorite_count": 259,
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "ja"
+            },
+            "is_quote_status": true,
+            "quoted_status_id": 1070602365508567040,
+            "quoted_status_id_str": "1070602365508567040",
+            "retweet_count": 152,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Fri Dec 07 11:36:07 +0000 2018",
+            "id": 1071005430963294210,
+            "id_str": "1071005430963294210",
+            "text": "@kanako_nomura \u306f\u3044\uff01\u306f\u3044\uff01\u3084\u308a\u305f\u30fc\u30fc\u3044\uff01\uff01\uff61+\uff9f(*\u00b4\u2200`*)\uff9f+\uff61\uff61*\uff9f",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "kanako_nomura",
+                        "name": "\u91ce\u6751\u9999\u83dc\u5b50",
+                        "id": 1053122428946149378,
+                        "id_str": "1053122428946149378",
+                        "indices": [
+                            0,
+                            14
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": 1070992376745742337,
+            "in_reply_to_status_id_str": "1070992376745742337",
+            "in_reply_to_user_id": 1053122428946149378,
+            "in_reply_to_user_id_str": "1053122428946149378",
+            "in_reply_to_screen_name": "kanako_nomura",
+            "user": {
+                "id": 279901829,
+                "id_str": "279901829",
+                "name": "\u6850\u8c37\u8776\u3005\ud83c\udf41",
+                "screen_name": "choucho0115",
+                "location": "\u6771\u4eac",
+                "description": "\u30ca\u30ec\u30fc\u30bf\u30fc\u58f0\u512a\uff01\u5973\u6027 https://t.co/Xxe8ezVL0a \u4ed5\u4e8b\u4f9d\u983c\u306f\u732a\u9e7f\u8776\u25cf\u30c0\u30a6\u30f3\u30bf\u30a6\u30f3DX\uff08\u6728\u66dc22\u6642)/\u6709\u5409\u306e\u58c1/\u8131\u51fa\u5927\u5b66/TBS\u30ea\u30aa\u4e94\u8f2a\u3001\u5e73\u660c\u4e94\u8f2a/\u4e16\u754c\u6c34\u6cf3/\u4e16\u754c\u4f53\u64cd/\u4e16\u754c\u5353\u7403AbemaTV\u300eAbemaPrime\u300f\uff08\u6708\u30fb\u6c34\uff09/\u30a2\u30a4\u30c9\u30eb\u30de\u30b9\u30bf\u30fc \u5bae\u5c3e\u7f8e\u4e5f\u5f79/\u30ea\u30a2\u30eb\u8131\u51fa\u30b2\u30fc\u30e0TV",
+                "url": "https://t.co/PwPcBtRSjr",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/PwPcBtRSjr",
+                                "expanded_url": "http://choucho1515.wix.com/choucho-website",
+                                "display_url": "choucho1515.wix.com/choucho-website",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/Xxe8ezVL0a",
+                                "expanded_url": "http://Instagram.com/choucho_kiri",
+                                "display_url": "Instagram.com/choucho_kiri",
+                                "indices": [
+                                    11,
+                                    34
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "protected": false,
+                "followers_count": 43080,
+                "friends_count": 621,
+                "listed_count": 2205,
+                "created_at": "Sun Apr 10 07:17:40 +0000 2011",
+                "favourites_count": 7696,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 38551,
+                "lang": "ja",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1012715775830847488/O2amICFv_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1012715775830847488/O2amICFv_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/279901829/1540998793",
+                "profile_link_color": "FFA319",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 8,
+            "favorite_count": 84,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Fri Dec 07 10:26:43 +0000 2018",
+            "id": 1070987964727971841,
+            "id_str": "1070987964727971841",
+            "text": "@kanako_nomura \u3044\u3044\u306a\u30fc\uff01\ud83d\ude0d",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "kanako_nomura",
+                        "name": "\u91ce\u6751\u9999\u83dc\u5b50",
+                        "id": 1053122428946149378,
+                        "id_str": "1053122428946149378",
+                        "indices": [
+                            0,
+                            14
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": 1070908591664578560,
+            "in_reply_to_status_id_str": "1070908591664578560",
+            "in_reply_to_user_id": 1053122428946149378,
+            "in_reply_to_user_id_str": "1053122428946149378",
+            "in_reply_to_screen_name": "kanako_nomura",
+            "user": {
+                "id": 279901829,
+                "id_str": "279901829",
+                "name": "\u6850\u8c37\u8776\u3005\ud83c\udf41",
+                "screen_name": "choucho0115",
+                "location": "\u6771\u4eac",
+                "description": "\u30ca\u30ec\u30fc\u30bf\u30fc\u58f0\u512a\uff01\u5973\u6027 https://t.co/Xxe8ezVL0a \u4ed5\u4e8b\u4f9d\u983c\u306f\u732a\u9e7f\u8776\u25cf\u30c0\u30a6\u30f3\u30bf\u30a6\u30f3DX\uff08\u6728\u66dc22\u6642)/\u6709\u5409\u306e\u58c1/\u8131\u51fa\u5927\u5b66/TBS\u30ea\u30aa\u4e94\u8f2a\u3001\u5e73\u660c\u4e94\u8f2a/\u4e16\u754c\u6c34\u6cf3/\u4e16\u754c\u4f53\u64cd/\u4e16\u754c\u5353\u7403AbemaTV\u300eAbemaPrime\u300f\uff08\u6708\u30fb\u6c34\uff09/\u30a2\u30a4\u30c9\u30eb\u30de\u30b9\u30bf\u30fc \u5bae\u5c3e\u7f8e\u4e5f\u5f79/\u30ea\u30a2\u30eb\u8131\u51fa\u30b2\u30fc\u30e0TV",
+                "url": "https://t.co/PwPcBtRSjr",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/PwPcBtRSjr",
+                                "expanded_url": "http://choucho1515.wix.com/choucho-website",
+                                "display_url": "choucho1515.wix.com/choucho-website",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/Xxe8ezVL0a",
+                                "expanded_url": "http://Instagram.com/choucho_kiri",
+                                "display_url": "Instagram.com/choucho_kiri",
+                                "indices": [
+                                    11,
+                                    34
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "protected": false,
+                "followers_count": 43080,
+                "friends_count": 621,
+                "listed_count": 2205,
+                "created_at": "Sun Apr 10 07:17:40 +0000 2011",
+                "favourites_count": 7696,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 38551,
+                "lang": "ja",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1012715775830847488/O2amICFv_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1012715775830847488/O2amICFv_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/279901829/1540998793",
+                "profile_link_color": "FFA319",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 12,
+            "favorite_count": 85,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Fri Dec 07 10:25:00 +0000 2018",
+            "id": 1070987533729681410,
+            "id_str": "1070987533729681410",
+            "text": "\u3010\u304a\u77e5\u3089\u305b\u3011\u6c34\u66dc\u30c9\u30e9\u30de\u300c\u7363\u306b\u306a\u308c\u306a\u3044\u79c1\u305f\u3061\u300d\u6700\u7d42\u56de\u306f\u7d76\u5bfe\u898b\u9003\u305b\u306a\u3044SP \u30fc \u30a2\u30e1\u30d6\u30ed\u3092\u66f4\u65b0\u3057\u307e\u3057\u305f\n#\u3051\u3082\u306a\u308c\nhttps://t.co/MtIHvei4n1",
+            "truncated": false,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "\u3051\u3082\u306a\u308c",
+                        "indices": [
+                            50,
+                            55
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/MtIHvei4n1",
+                        "expanded_url": "https://ameblo.jp/mmmm1515/entry-12424214462.html?timestamp=1544178301",
+                        "display_url": "ameblo.jp/mmmm1515/entry\u2026",
+                        "indices": [
+                            56,
+                            79
+                        ]
+                    }
+                ]
+            },
+            "source": "<a href=\"http://www.ameba.jp\" rel=\"nofollow\">Ameba smartphone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 279901829,
+                "id_str": "279901829",
+                "name": "\u6850\u8c37\u8776\u3005\ud83c\udf41",
+                "screen_name": "choucho0115",
+                "location": "\u6771\u4eac",
+                "description": "\u30ca\u30ec\u30fc\u30bf\u30fc\u58f0\u512a\uff01\u5973\u6027 https://t.co/Xxe8ezVL0a \u4ed5\u4e8b\u4f9d\u983c\u306f\u732a\u9e7f\u8776\u25cf\u30c0\u30a6\u30f3\u30bf\u30a6\u30f3DX\uff08\u6728\u66dc22\u6642)/\u6709\u5409\u306e\u58c1/\u8131\u51fa\u5927\u5b66/TBS\u30ea\u30aa\u4e94\u8f2a\u3001\u5e73\u660c\u4e94\u8f2a/\u4e16\u754c\u6c34\u6cf3/\u4e16\u754c\u4f53\u64cd/\u4e16\u754c\u5353\u7403AbemaTV\u300eAbemaPrime\u300f\uff08\u6708\u30fb\u6c34\uff09/\u30a2\u30a4\u30c9\u30eb\u30de\u30b9\u30bf\u30fc \u5bae\u5c3e\u7f8e\u4e5f\u5f79/\u30ea\u30a2\u30eb\u8131\u51fa\u30b2\u30fc\u30e0TV",
+                "url": "https://t.co/PwPcBtRSjr",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/PwPcBtRSjr",
+                                "expanded_url": "http://choucho1515.wix.com/choucho-website",
+                                "display_url": "choucho1515.wix.com/choucho-website",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/Xxe8ezVL0a",
+                                "expanded_url": "http://Instagram.com/choucho_kiri",
+                                "display_url": "Instagram.com/choucho_kiri",
+                                "indices": [
+                                    11,
+                                    34
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "protected": false,
+                "followers_count": 43080,
+                "friends_count": 621,
+                "listed_count": 2205,
+                "created_at": "Sun Apr 10 07:17:40 +0000 2011",
+                "favourites_count": 7696,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 38551,
+                "lang": "ja",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1012715775830847488/O2amICFv_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1012715775830847488/O2amICFv_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/279901829/1540998793",
+                "profile_link_color": "FFA319",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 15,
+            "favorite_count": 54,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Thu Dec 06 13:57:36 +0000 2018",
+            "id": 1070678647177076738,
+            "id_str": "1070678647177076738",
+            "text": "\u307f\u305f\u3053\u3068\u306a\u301c\u3044\uff01\ud83d\ude33\ud83d\ude33\ud83d\ude33\ud83d\ude33\n#\u30c0\u30a6\u30f3\u30bf\u30a6\u30f3DX",
+            "truncated": false,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "\u30c0\u30a6\u30f3\u30bf\u30a6\u30f3DX",
+                        "indices": [
+                            13,
+                            22
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": []
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 279901829,
+                "id_str": "279901829",
+                "name": "\u6850\u8c37\u8776\u3005\ud83c\udf41",
+                "screen_name": "choucho0115",
+                "location": "\u6771\u4eac",
+                "description": "\u30ca\u30ec\u30fc\u30bf\u30fc\u58f0\u512a\uff01\u5973\u6027 https://t.co/Xxe8ezVL0a \u4ed5\u4e8b\u4f9d\u983c\u306f\u732a\u9e7f\u8776\u25cf\u30c0\u30a6\u30f3\u30bf\u30a6\u30f3DX\uff08\u6728\u66dc22\u6642)/\u6709\u5409\u306e\u58c1/\u8131\u51fa\u5927\u5b66/TBS\u30ea\u30aa\u4e94\u8f2a\u3001\u5e73\u660c\u4e94\u8f2a/\u4e16\u754c\u6c34\u6cf3/\u4e16\u754c\u4f53\u64cd/\u4e16\u754c\u5353\u7403AbemaTV\u300eAbemaPrime\u300f\uff08\u6708\u30fb\u6c34\uff09/\u30a2\u30a4\u30c9\u30eb\u30de\u30b9\u30bf\u30fc \u5bae\u5c3e\u7f8e\u4e5f\u5f79/\u30ea\u30a2\u30eb\u8131\u51fa\u30b2\u30fc\u30e0TV",
+                "url": "https://t.co/PwPcBtRSjr",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/PwPcBtRSjr",
+                                "expanded_url": "http://choucho1515.wix.com/choucho-website",
+                                "display_url": "choucho1515.wix.com/choucho-website",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/Xxe8ezVL0a",
+                                "expanded_url": "http://Instagram.com/choucho_kiri",
+                                "display_url": "Instagram.com/choucho_kiri",
+                                "indices": [
+                                    11,
+                                    34
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "protected": false,
+                "followers_count": 43080,
+                "friends_count": 621,
+                "listed_count": 2205,
+                "created_at": "Sun Apr 10 07:17:40 +0000 2011",
+                "favourites_count": 7696,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 38551,
+                "lang": "ja",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1012715775830847488/O2amICFv_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1012715775830847488/O2amICFv_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/279901829/1540998793",
+                "profile_link_color": "FFA319",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 2,
+            "favorite_count": 30,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Thu Dec 06 13:43:08 +0000 2018",
+            "id": 1070675006793760768,
+            "id_str": "1070675006793760768",
+            "text": "\u897f\u5ddd\u3055\u30fc\u30fc\u3093(//\u2200//)\n#\u30c0\u30a6\u30f3\u30bf\u30a6\u30f3\uff24\uff38",
+            "truncated": false,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "\u30c0\u30a6\u30f3\u30bf\u30a6\u30f3\uff24\uff38",
+                        "indices": [
+                            14,
+                            23
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": []
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 279901829,
+                "id_str": "279901829",
+                "name": "\u6850\u8c37\u8776\u3005\ud83c\udf41",
+                "screen_name": "choucho0115",
+                "location": "\u6771\u4eac",
+                "description": "\u30ca\u30ec\u30fc\u30bf\u30fc\u58f0\u512a\uff01\u5973\u6027 https://t.co/Xxe8ezVL0a \u4ed5\u4e8b\u4f9d\u983c\u306f\u732a\u9e7f\u8776\u25cf\u30c0\u30a6\u30f3\u30bf\u30a6\u30f3DX\uff08\u6728\u66dc22\u6642)/\u6709\u5409\u306e\u58c1/\u8131\u51fa\u5927\u5b66/TBS\u30ea\u30aa\u4e94\u8f2a\u3001\u5e73\u660c\u4e94\u8f2a/\u4e16\u754c\u6c34\u6cf3/\u4e16\u754c\u4f53\u64cd/\u4e16\u754c\u5353\u7403AbemaTV\u300eAbemaPrime\u300f\uff08\u6708\u30fb\u6c34\uff09/\u30a2\u30a4\u30c9\u30eb\u30de\u30b9\u30bf\u30fc \u5bae\u5c3e\u7f8e\u4e5f\u5f79/\u30ea\u30a2\u30eb\u8131\u51fa\u30b2\u30fc\u30e0TV",
+                "url": "https://t.co/PwPcBtRSjr",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/PwPcBtRSjr",
+                                "expanded_url": "http://choucho1515.wix.com/choucho-website",
+                                "display_url": "choucho1515.wix.com/choucho-website",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/Xxe8ezVL0a",
+                                "expanded_url": "http://Instagram.com/choucho_kiri",
+                                "display_url": "Instagram.com/choucho_kiri",
+                                "indices": [
+                                    11,
+                                    34
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "protected": false,
+                "followers_count": 43080,
+                "friends_count": 621,
+                "listed_count": 2205,
+                "created_at": "Sun Apr 10 07:17:40 +0000 2011",
+                "favourites_count": 7696,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 38551,
+                "lang": "ja",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1012715775830847488/O2amICFv_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1012715775830847488/O2amICFv_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/279901829/1540998793",
+                "profile_link_color": "FFA319",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 3,
+            "favorite_count": 30,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Thu Dec 06 10:19:54 +0000 2018",
+            "id": 1070623861765361664,
+            "id_str": "1070623861765361664",
+            "text": "\u305c\u3072\u3054\u89a7\u304f\u3060\u3055\u3044\uff01\uff01(*\u00b4\u03c9`*)\n\n\u3010\u304a\u77e5\u3089\u305b \u30ca\u30ec\u30fc\u30b7\u30e7\u30f3\u3011\n12\u67086\u65e5\uff08\u6728\uff09\u3088\u308b10:00\uff5e\n\u8aad\u58f2\u30c6\u30ec\u30d3\u3001\u65e5\u30c6\u30ec\u7cfb\u300e #\u30c0\u30a6\u30f3\u30bf\u30a6\u30f3DX \u300f \n\n\u30b2\u30b9\u30c8IKKO\u3001\u30a8\u30ea\u30ab&amp;\u30de\u30ea\u30ca\u3001\u30c1\u30e7\u30b3\u30ec\u30fc\u30c8\u30d7\u30e9\u30cd\u30c3\u30c8\u3001\u897f\u5ddd\u8cb4\u6559\u3001\u30cf\u30ca\u30b3\u3001\u85e4\u7530\u2026 https://t.co/qI0deElQN8",
+            "truncated": true,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "\u30c0\u30a6\u30f3\u30bf\u30a6\u30f3DX",
+                        "indices": [
+                            62,
+                            71
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/qI0deElQN8",
+                        "expanded_url": "https://twitter.com/i/web/status/1070623861765361664",
+                        "display_url": "twitter.com/i/web/status/1\u2026",
+                        "indices": [
+                            121,
+                            144
+                        ]
+                    }
+                ]
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 279901829,
+                "id_str": "279901829",
+                "name": "\u6850\u8c37\u8776\u3005\ud83c\udf41",
+                "screen_name": "choucho0115",
+                "location": "\u6771\u4eac",
+                "description": "\u30ca\u30ec\u30fc\u30bf\u30fc\u58f0\u512a\uff01\u5973\u6027 https://t.co/Xxe8ezVL0a \u4ed5\u4e8b\u4f9d\u983c\u306f\u732a\u9e7f\u8776\u25cf\u30c0\u30a6\u30f3\u30bf\u30a6\u30f3DX\uff08\u6728\u66dc22\u6642)/\u6709\u5409\u306e\u58c1/\u8131\u51fa\u5927\u5b66/TBS\u30ea\u30aa\u4e94\u8f2a\u3001\u5e73\u660c\u4e94\u8f2a/\u4e16\u754c\u6c34\u6cf3/\u4e16\u754c\u4f53\u64cd/\u4e16\u754c\u5353\u7403AbemaTV\u300eAbemaPrime\u300f\uff08\u6708\u30fb\u6c34\uff09/\u30a2\u30a4\u30c9\u30eb\u30de\u30b9\u30bf\u30fc \u5bae\u5c3e\u7f8e\u4e5f\u5f79/\u30ea\u30a2\u30eb\u8131\u51fa\u30b2\u30fc\u30e0TV",
+                "url": "https://t.co/PwPcBtRSjr",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/PwPcBtRSjr",
+                                "expanded_url": "http://choucho1515.wix.com/choucho-website",
+                                "display_url": "choucho1515.wix.com/choucho-website",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/Xxe8ezVL0a",
+                                "expanded_url": "http://Instagram.com/choucho_kiri",
+                                "display_url": "Instagram.com/choucho_kiri",
+                                "indices": [
+                                    11,
+                                    34
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "protected": false,
+                "followers_count": 43080,
+                "friends_count": 621,
+                "listed_count": 2205,
+                "created_at": "Sun Apr 10 07:17:40 +0000 2011",
+                "favourites_count": 7696,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 38551,
+                "lang": "ja",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1012715775830847488/O2amICFv_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1012715775830847488/O2amICFv_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/279901829/1540998793",
+                "profile_link_color": "FFA319",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 24,
+            "favorite_count": 54,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Thu Dec 06 10:16:48 +0000 2018",
+            "id": 1070623080517591040,
+            "id_str": "1070623080517591040",
+            "text": "RT @tospodx: \u2605\u4eca\u591c\uff0112/6\u6728\u3088\u308b10\u6642\u304b\u3089\u306e #\u30c0\u30a6\u30f3\u30bf\u30a6\u30f3DX \u306b\u3066\uff01\u30a8\u30ea\u30ab\u30de\u30ea\u30ca\u59c9\u59b9\u306b\u6559\u308f\u308a\u306a\u304c\u3089\u3001#IKKO \uff06 #\u30c1\u30e7\u30b3\u30d7\u30e9\u677e\u5c3e \u3001#\u77f3\u5009\u4e09\u90ce \u305d\u3057\u3066 #\u677e\u4e95\u73b2\u5948 #\u30c0\u30a6\u30f3\u30bf\u30a6\u30f3 \u3082\u3084\u3063\u3066\u307e\u3059\u3002\u8cb4\u91cd\u306a\u30b7\u30fc\u30f3\u306f\u653e\u9001\u306b\u3066\u30fc\u3002\nhttps://t.co/5zL\u2026",
+            "truncated": false,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "\u30c0\u30a6\u30f3\u30bf\u30a6\u30f3DX",
+                        "indices": [
+                            31,
+                            40
+                        ]
+                    },
+                    {
+                        "text": "IKKO",
+                        "indices": [
+                            60,
+                            65
+                        ]
+                    },
+                    {
+                        "text": "\u30c1\u30e7\u30b3\u30d7\u30e9\u677e\u5c3e",
+                        "indices": [
+                            68,
+                            76
+                        ]
+                    },
+                    {
+                        "text": "\u77f3\u5009\u4e09\u90ce",
+                        "indices": [
+                            78,
+                            83
+                        ]
+                    },
+                    {
+                        "text": "\u677e\u4e95\u73b2\u5948",
+                        "indices": [
+                            88,
+                            93
+                        ]
+                    },
+                    {
+                        "text": "\u30c0\u30a6\u30f3\u30bf\u30a6\u30f3",
+                        "indices": [
+                            94,
+                            101
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "tospodx",
+                        "name": "\u3010\u30c0\u30a6\u30f3\u30bf\u30a6\u30f3DX\u516c\u5f0f\u3011\u30c8\u30b9\u30dd",
+                        "id": 2360787679,
+                        "id_str": "2360787679",
+                        "indices": [
+                            3,
+                            11
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 279901829,
+                "id_str": "279901829",
+                "name": "\u6850\u8c37\u8776\u3005\ud83c\udf41",
+                "screen_name": "choucho0115",
+                "location": "\u6771\u4eac",
+                "description": "\u30ca\u30ec\u30fc\u30bf\u30fc\u58f0\u512a\uff01\u5973\u6027 https://t.co/Xxe8ezVL0a \u4ed5\u4e8b\u4f9d\u983c\u306f\u732a\u9e7f\u8776\u25cf\u30c0\u30a6\u30f3\u30bf\u30a6\u30f3DX\uff08\u6728\u66dc22\u6642)/\u6709\u5409\u306e\u58c1/\u8131\u51fa\u5927\u5b66/TBS\u30ea\u30aa\u4e94\u8f2a\u3001\u5e73\u660c\u4e94\u8f2a/\u4e16\u754c\u6c34\u6cf3/\u4e16\u754c\u4f53\u64cd/\u4e16\u754c\u5353\u7403AbemaTV\u300eAbemaPrime\u300f\uff08\u6708\u30fb\u6c34\uff09/\u30a2\u30a4\u30c9\u30eb\u30de\u30b9\u30bf\u30fc \u5bae\u5c3e\u7f8e\u4e5f\u5f79/\u30ea\u30a2\u30eb\u8131\u51fa\u30b2\u30fc\u30e0TV",
+                "url": "https://t.co/PwPcBtRSjr",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/PwPcBtRSjr",
+                                "expanded_url": "http://choucho1515.wix.com/choucho-website",
+                                "display_url": "choucho1515.wix.com/choucho-website",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/Xxe8ezVL0a",
+                                "expanded_url": "http://Instagram.com/choucho_kiri",
+                                "display_url": "Instagram.com/choucho_kiri",
+                                "indices": [
+                                    11,
+                                    34
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "protected": false,
+                "followers_count": 43080,
+                "friends_count": 621,
+                "listed_count": 2205,
+                "created_at": "Sun Apr 10 07:17:40 +0000 2011",
+                "favourites_count": 7696,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 38551,
+                "lang": "ja",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1012715775830847488/O2amICFv_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1012715775830847488/O2amICFv_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/279901829/1540998793",
+                "profile_link_color": "FFA319",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Thu Dec 06 10:15:22 +0000 2018",
+                "id": 1070622722630119424,
+                "id_str": "1070622722630119424",
+                "text": "\u2605\u4eca\u591c\uff0112/6\u6728\u3088\u308b10\u6642\u304b\u3089\u306e #\u30c0\u30a6\u30f3\u30bf\u30a6\u30f3DX \u306b\u3066\uff01\u30a8\u30ea\u30ab\u30de\u30ea\u30ca\u59c9\u59b9\u306b\u6559\u308f\u308a\u306a\u304c\u3089\u3001#IKKO \uff06 #\u30c1\u30e7\u30b3\u30d7\u30e9\u677e\u5c3e \u3001#\u77f3\u5009\u4e09\u90ce \u305d\u3057\u3066 #\u677e\u4e95\u73b2\u5948 #\u30c0\u30a6\u30f3\u30bf\u30a6\u30f3 \u3082\u3084\u3063\u3066\u307e\u3059\u3002\u8cb4\u91cd\u306a\u30b7\u30fc\u30f3\u306f\u653e\u9001\u306b\u3066\u30fc\u3002\u2026 https://t.co/1WootKWChd",
+                "truncated": true,
+                "entities": {
+                    "hashtags": [
+                        {
+                            "text": "\u30c0\u30a6\u30f3\u30bf\u30a6\u30f3DX",
+                            "indices": [
+                                18,
+                                27
+                            ]
+                        },
+                        {
+                            "text": "IKKO",
+                            "indices": [
+                                47,
+                                52
+                            ]
+                        },
+                        {
+                            "text": "\u30c1\u30e7\u30b3\u30d7\u30e9\u677e\u5c3e",
+                            "indices": [
+                                55,
+                                63
+                            ]
+                        },
+                        {
+                            "text": "\u77f3\u5009\u4e09\u90ce",
+                            "indices": [
+                                65,
+                                70
+                            ]
+                        },
+                        {
+                            "text": "\u677e\u4e95\u73b2\u5948",
+                            "indices": [
+                                75,
+                                80
+                            ]
+                        },
+                        {
+                            "text": "\u30c0\u30a6\u30f3\u30bf\u30a6\u30f3",
+                            "indices": [
+                                81,
+                                88
+                            ]
+                        }
+                    ],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": [
+                        {
+                            "url": "https://t.co/1WootKWChd",
+                            "expanded_url": "https://twitter.com/i/web/status/1070622722630119424",
+                            "display_url": "twitter.com/i/web/status/1\u2026",
+                            "indices": [
+                                111,
+                                134
+                            ]
+                        }
+                    ]
+                },
+                "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 2360787679,
+                    "id_str": "2360787679",
+                    "name": "\u3010\u30c0\u30a6\u30f3\u30bf\u30a6\u30f3DX\u516c\u5f0f\u3011\u30c8\u30b9\u30dd",
+                    "screen_name": "tospodx",
+                    "location": "",
+                    "description": "\u2605 \u6bce\u9031\u6728\u66dc\u3088\u308b10\u6642\u300c\u30c0\u30a6\u30f3\u30bf\u30a6\u30f3DX\u300d\u306e\u516c\u5f0f\u30da\u30fc\u30b8\u3002\u30d5\u30a9\u30ed\u30fc&\u5fdc\u63f4\u304a\u9858\u3044\u3057\u307e\u3059\uff01\uff01\uff01 \u25b6\ufe0e\u756a\u7d44HP\u2192https://t.co/AneToF6rPO\u25b6\ufe0e\u516c\u5f0fFB\u2192https://t.co/80IETjbnnd\u25b6\ufe0e\u516c\u5f0fLINE\u3082\u3084\u3063\u3066\u307e\u3059\uff01\u25b6\ufe0e\u516c\u5f0fInstagram\u3082\u59cb\u3081\u307e\u3057\u305f\uff01",
+                    "url": null,
+                    "entities": {
+                        "description": {
+                            "urls": [
+                                {
+                                    "url": "https://t.co/AneToF6rPO",
+                                    "expanded_url": "http://www.ytv.co.jp/dtdx/",
+                                    "display_url": "ytv.co.jp/dtdx/",
+                                    "indices": [
+                                        52,
+                                        75
+                                    ]
+                                },
+                                {
+                                    "url": "https://t.co/80IETjbnnd",
+                                    "expanded_url": "http://facebook.com/downtowndx",
+                                    "display_url": "facebook.com/downtowndx",
+                                    "indices": [
+                                        82,
+                                        105
+                                    ]
+                                }
+                            ]
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 16651,
+                    "friends_count": 640,
+                    "listed_count": 127,
+                    "created_at": "Tue Feb 25 09:02:45 +0000 2014",
+                    "favourites_count": 2,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": false,
+                    "verified": false,
+                    "statuses_count": 3489,
+                    "lang": "ja",
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "C0DEED",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/439917008491003905/xf4-W9LZ_normal.jpeg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/439917008491003905/xf4-W9LZ_normal.jpeg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2360787679/1393398277",
+                    "profile_link_color": "1DA1F2",
+                    "profile_sidebar_border_color": "C0DEED",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "has_extended_profile": true,
+                    "default_profile": true,
+                    "default_profile_image": false,
+                    "following": false,
+                    "follow_request_sent": false,
+                    "notifications": false,
+                    "translator_type": "none"
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": true,
+                "quoted_status_id": 1070616334197710848,
+                "quoted_status_id_str": "1070616334197710848",
+                "quoted_status": {
+                    "created_at": "Thu Dec 06 09:49:59 +0000 2018",
+                    "id": 1070616334197710848,
+                    "id_str": "1070616334197710848",
+                    "text": "\ud83d\udd3b\u756a\u7d44\u544a\u77e5\ud83d\udd3b\n\uff3c\u30c0\u30a6\u30f3\u30bf\u30a6\u30f3DX\u3067\u306a\u3093\u3068\u3001\u30c0\u30a6\u30f3\u30bf\u30a6\u30f3\u306e\u304a\u4e8c\u4eba\u304cTikTok\u306b\u6311\u6226\u2763\ufe0f\uff0f\n\u3042\u306e\u4eba\u6c17TikToker\u3082\u51fa\u6f14\u3059\u308b\u3088\ud83e\udd17\ud83c\udf8a\n\n\u672c\u65e512/6\uff08\u6728\uff09\u3088\u308b10:00\uff5e\u30c0\u30a6\u30f3\u30bf\u30a6\u30f3DX\u3092\u30c1\u30a7\u30c3\u30af\ud83d\udc4d\ud83c\udf40\u2728\n\nTikTok\u3067\u5927\u4eba\u6c17\u306e\u30c1\u30e7\u2026 https://t.co/82832ZepTm",
+                    "truncated": true,
+                    "entities": {
+                        "hashtags": [],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": [
+                            {
+                                "url": "https://t.co/82832ZepTm",
+                                "expanded_url": "https://twitter.com/i/web/status/1070616334197710848",
+                                "display_url": "twitter.com/i/web/status/1\u2026",
+                                "indices": [
+                                    117,
+                                    140
+                                ]
+                            }
+                        ]
+                    },
+                    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                    "in_reply_to_status_id": null,
+                    "in_reply_to_status_id_str": null,
+                    "in_reply_to_user_id": null,
+                    "in_reply_to_user_id_str": null,
+                    "in_reply_to_screen_name": null,
+                    "user": {
+                        "id": 864314317818085376,
+                        "id_str": "864314317818085376",
+                        "name": "TikTok_japan \u30c6\u30a3\u30c3\u30af\u30c8\u30c3\u30af",
+                        "screen_name": "tiktok_japan",
+                        "location": "\u65e5\u672c \u6771\u4eac",
+                        "description": "\u300cTikTok\u300d\u516c\u5f0f\u30a2\u30ab\u30a6\u30f3\u30c8\u2763\ufe0f 15\u79d2\u306e\u30b7\u30e7\u30fc\u30c8\u30e0\u30fc\u30d3\u30fc\u3067\u3001\u672a\u6765\u306e\u30c8\u30ec\u30f3\u30c9\u3092\u4f5c\u308d\u3046\uff01\u30c0\u30a6\u30f3\u30ed\u30fc\u30c9\u2192 https://t.co/CjbTFlRJJy\u30d5\u30a3\u30fc\u30c9\u30d0\u30c3\u30af\u3084\u30a2\u30ab\u30a6\u30f3\u30c8\u554f\u984c\u2192 \u30a2\u30d7\u30ea\u5185\u306e\u30d5\u30a3\u30fc\u30c9\u30d0\u30c3\u30af\u306b\u3066",
+                        "url": "https://t.co/CjbTFlRJJy",
+                        "entities": {
+                            "url": {
+                                "urls": [
+                                    {
+                                        "url": "https://t.co/CjbTFlRJJy",
+                                        "expanded_url": "http://m.onelink.me/279f78aa",
+                                        "display_url": "m.onelink.me/279f78aa",
+                                        "indices": [
+                                            0,
+                                            23
+                                        ]
+                                    }
+                                ]
+                            },
+                            "description": {
+                                "urls": [
+                                    {
+                                        "url": "https://t.co/CjbTFlRJJy",
+                                        "expanded_url": "http://m.onelink.me/279f78aa",
+                                        "display_url": "m.onelink.me/279f78aa",
+                                        "indices": [
+                                            52,
+                                            75
+                                        ]
+                                    }
+                                ]
+                            }
+                        },
+                        "protected": false,
+                        "followers_count": 76244,
+                        "friends_count": 1170,
+                        "listed_count": 133,
+                        "created_at": "Tue May 16 02:59:26 +0000 2017",
+                        "favourites_count": 1893,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": false,
+                        "verified": true,
+                        "statuses_count": 1472,
+                        "lang": "ja",
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "F5F8FA",
+                        "profile_background_image_url": null,
+                        "profile_background_image_url_https": null,
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/864315435881160705/1JKiMeeA_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/864315435881160705/1JKiMeeA_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/864314317818085376/1494904488",
+                        "profile_link_color": "1DA1F2",
+                        "profile_sidebar_border_color": "C0DEED",
+                        "profile_sidebar_fill_color": "DDEEF6",
+                        "profile_text_color": "333333",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": false,
+                        "default_profile": true,
+                        "default_profile_image": false,
+                        "following": false,
+                        "follow_request_sent": false,
+                        "notifications": false,
+                        "translator_type": "none"
+                    },
+                    "geo": null,
+                    "coordinates": null,
+                    "place": null,
+                    "contributors": null,
+                    "is_quote_status": false,
+                    "retweet_count": 31,
+                    "favorite_count": 183,
+                    "favorited": false,
+                    "retweeted": false,
+                    "possibly_sensitive": false,
+                    "lang": "ja"
+                },
+                "retweet_count": 48,
+                "favorite_count": 152,
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "ja"
+            },
+            "is_quote_status": true,
+            "quoted_status_id": 1070616334197710848,
+            "quoted_status_id_str": "1070616334197710848",
+            "retweet_count": 48,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Thu Dec 06 08:54:29 +0000 2018",
+            "id": 1070602365508567040,
+            "id_str": "1070602365508567040",
+            "text": "\u3010Fluffy \u30e9\u30b8\u30aa\u306b\u521d\u30b2\u30b9\u30c8\uff01\u3011\n\n\u7b2c5\u56deFluffy \u30e9\u30b8\u30aa\u306b\u300c\u685c\u54b2\u5343\u4f9d\u3055\u3093\u300d\u51fa\u6f14\u6c7a\u5b9a\uff01\ud83c\udf38\n\n\u30b2\u30b9\u30c8\u5b9b\u306e\u30e1\u30fc\u30eb\u3092\u5927\u52df\u96c6\u3057\u307e\u3059\uff01\n\u30b2\u30b9\u30c8\u3078\u306e\u30e1\u30c3\u30bb\u30fc\u30b8\u306a\u3069\u3001\u3069\u3057\u3069\u3057\u304a\u5f85\u3061\u3057\u3066\u3044\u307e\u3059\u30fc\u30fc\u30fc\uff01(*\u00b4\u03c9`*)\ud83c\udf38\ud83c\udf38\ud83c\udf38\n\n#\u3075\u3089\u3066\u3043\n\u6850\u2026 https://t.co/6EqyXiOvx3",
+            "truncated": true,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "\u3075\u3089\u3066\u3043",
+                        "indices": [
+                            108,
+                            113
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/6EqyXiOvx3",
+                        "expanded_url": "https://twitter.com/i/web/status/1070602365508567040",
+                        "display_url": "twitter.com/i/web/status/1\u2026",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ]
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 279901829,
+                "id_str": "279901829",
+                "name": "\u6850\u8c37\u8776\u3005\ud83c\udf41",
+                "screen_name": "choucho0115",
+                "location": "\u6771\u4eac",
+                "description": "\u30ca\u30ec\u30fc\u30bf\u30fc\u58f0\u512a\uff01\u5973\u6027 https://t.co/Xxe8ezVL0a \u4ed5\u4e8b\u4f9d\u983c\u306f\u732a\u9e7f\u8776\u25cf\u30c0\u30a6\u30f3\u30bf\u30a6\u30f3DX\uff08\u6728\u66dc22\u6642)/\u6709\u5409\u306e\u58c1/\u8131\u51fa\u5927\u5b66/TBS\u30ea\u30aa\u4e94\u8f2a\u3001\u5e73\u660c\u4e94\u8f2a/\u4e16\u754c\u6c34\u6cf3/\u4e16\u754c\u4f53\u64cd/\u4e16\u754c\u5353\u7403AbemaTV\u300eAbemaPrime\u300f\uff08\u6708\u30fb\u6c34\uff09/\u30a2\u30a4\u30c9\u30eb\u30de\u30b9\u30bf\u30fc \u5bae\u5c3e\u7f8e\u4e5f\u5f79/\u30ea\u30a2\u30eb\u8131\u51fa\u30b2\u30fc\u30e0TV",
+                "url": "https://t.co/PwPcBtRSjr",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/PwPcBtRSjr",
+                                "expanded_url": "http://choucho1515.wix.com/choucho-website",
+                                "display_url": "choucho1515.wix.com/choucho-website",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/Xxe8ezVL0a",
+                                "expanded_url": "http://Instagram.com/choucho_kiri",
+                                "display_url": "Instagram.com/choucho_kiri",
+                                "indices": [
+                                    11,
+                                    34
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "protected": false,
+                "followers_count": 43080,
+                "friends_count": 621,
+                "listed_count": 2205,
+                "created_at": "Sun Apr 10 07:17:40 +0000 2011",
+                "favourites_count": 7696,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 38551,
+                "lang": "ja",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1012715775830847488/O2amICFv_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1012715775830847488/O2amICFv_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/279901829/1540998793",
+                "profile_link_color": "FFA319",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 107,
+            "favorite_count": 168,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Thu Dec 06 08:51:08 +0000 2018",
+            "id": 1070601524433145856,
+            "id_str": "1070601524433145856",
+            "text": "\u304a\u77e5\u3089\u305b\uff01\uff01\uff01\uff01",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": []
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 279901829,
+                "id_str": "279901829",
+                "name": "\u6850\u8c37\u8776\u3005\ud83c\udf41",
+                "screen_name": "choucho0115",
+                "location": "\u6771\u4eac",
+                "description": "\u30ca\u30ec\u30fc\u30bf\u30fc\u58f0\u512a\uff01\u5973\u6027 https://t.co/Xxe8ezVL0a \u4ed5\u4e8b\u4f9d\u983c\u306f\u732a\u9e7f\u8776\u25cf\u30c0\u30a6\u30f3\u30bf\u30a6\u30f3DX\uff08\u6728\u66dc22\u6642)/\u6709\u5409\u306e\u58c1/\u8131\u51fa\u5927\u5b66/TBS\u30ea\u30aa\u4e94\u8f2a\u3001\u5e73\u660c\u4e94\u8f2a/\u4e16\u754c\u6c34\u6cf3/\u4e16\u754c\u4f53\u64cd/\u4e16\u754c\u5353\u7403AbemaTV\u300eAbemaPrime\u300f\uff08\u6708\u30fb\u6c34\uff09/\u30a2\u30a4\u30c9\u30eb\u30de\u30b9\u30bf\u30fc \u5bae\u5c3e\u7f8e\u4e5f\u5f79/\u30ea\u30a2\u30eb\u8131\u51fa\u30b2\u30fc\u30e0TV",
+                "url": "https://t.co/PwPcBtRSjr",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/PwPcBtRSjr",
+                                "expanded_url": "http://choucho1515.wix.com/choucho-website",
+                                "display_url": "choucho1515.wix.com/choucho-website",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/Xxe8ezVL0a",
+                                "expanded_url": "http://Instagram.com/choucho_kiri",
+                                "display_url": "Instagram.com/choucho_kiri",
+                                "indices": [
+                                    11,
+                                    34
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "protected": false,
+                "followers_count": 43080,
+                "friends_count": 621,
+                "listed_count": 2205,
+                "created_at": "Sun Apr 10 07:17:40 +0000 2011",
+                "favourites_count": 7696,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 38551,
+                "lang": "ja",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1012715775830847488/O2amICFv_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1012715775830847488/O2amICFv_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/279901829/1540998793",
+                "profile_link_color": "FFA319",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 10,
+            "favorite_count": 79,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Thu Dec 06 05:15:15 +0000 2018",
+            "id": 1070547195999399936,
+            "id_str": "1070547195999399936",
+            "text": "RT @ITKnittaarata: \u663c\u3075\u3089\u3066\u3043\n#\u3075\u3089\u3066\u3043\n\u6850\u8c37\u8776\u3005\u3068\u5e73\u5c71\u7b11\u7f8e\u306e\u30aa\u30d5\u30a3\u30b7\u30e3\u30eb\u30b5\u30ed\u30f3 \uff5eFluffy party\uff5e \uff08https://t.co/eygF2FkoJr \uff09",
+            "truncated": false,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "\u3075\u3089\u3066\u3043",
+                        "indices": [
+                            25,
+                            30
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "ITKnittaarata",
+                        "name": "\u65b0\u7530\u65b0@4.11-11.30",
+                        "id": 3124289137,
+                        "id_str": "3124289137",
+                        "indices": [
+                            3,
+                            17
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/eygF2FkoJr",
+                        "expanded_url": "https://lounge.dmm.com/detail/1391/",
+                        "display_url": "lounge.dmm.com/detail/1391/",
+                        "indices": [
+                            67,
+                            90
+                        ]
+                    }
+                ]
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 279901829,
+                "id_str": "279901829",
+                "name": "\u6850\u8c37\u8776\u3005\ud83c\udf41",
+                "screen_name": "choucho0115",
+                "location": "\u6771\u4eac",
+                "description": "\u30ca\u30ec\u30fc\u30bf\u30fc\u58f0\u512a\uff01\u5973\u6027 https://t.co/Xxe8ezVL0a \u4ed5\u4e8b\u4f9d\u983c\u306f\u732a\u9e7f\u8776\u25cf\u30c0\u30a6\u30f3\u30bf\u30a6\u30f3DX\uff08\u6728\u66dc22\u6642)/\u6709\u5409\u306e\u58c1/\u8131\u51fa\u5927\u5b66/TBS\u30ea\u30aa\u4e94\u8f2a\u3001\u5e73\u660c\u4e94\u8f2a/\u4e16\u754c\u6c34\u6cf3/\u4e16\u754c\u4f53\u64cd/\u4e16\u754c\u5353\u7403AbemaTV\u300eAbemaPrime\u300f\uff08\u6708\u30fb\u6c34\uff09/\u30a2\u30a4\u30c9\u30eb\u30de\u30b9\u30bf\u30fc \u5bae\u5c3e\u7f8e\u4e5f\u5f79/\u30ea\u30a2\u30eb\u8131\u51fa\u30b2\u30fc\u30e0TV",
+                "url": "https://t.co/PwPcBtRSjr",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/PwPcBtRSjr",
+                                "expanded_url": "http://choucho1515.wix.com/choucho-website",
+                                "display_url": "choucho1515.wix.com/choucho-website",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/Xxe8ezVL0a",
+                                "expanded_url": "http://Instagram.com/choucho_kiri",
+                                "display_url": "Instagram.com/choucho_kiri",
+                                "indices": [
+                                    11,
+                                    34
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "protected": false,
+                "followers_count": 43080,
+                "friends_count": 621,
+                "listed_count": 2205,
+                "created_at": "Sun Apr 10 07:17:40 +0000 2011",
+                "favourites_count": 7696,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 38551,
+                "lang": "ja",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1012715775830847488/O2amICFv_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1012715775830847488/O2amICFv_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/279901829/1540998793",
+                "profile_link_color": "FFA319",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Thu Dec 06 03:42:54 +0000 2018",
+                "id": 1070523952701747200,
+                "id_str": "1070523952701747200",
+                "text": "\u663c\u3075\u3089\u3066\u3043\n#\u3075\u3089\u3066\u3043\n\u6850\u8c37\u8776\u3005\u3068\u5e73\u5c71\u7b11\u7f8e\u306e\u30aa\u30d5\u30a3\u30b7\u30e3\u30eb\u30b5\u30ed\u30f3 \uff5eFluffy party\uff5e \uff08https://t.co/eygF2FkoJr \uff09",
+                "truncated": false,
+                "entities": {
+                    "hashtags": [
+                        {
+                            "text": "\u3075\u3089\u3066\u3043",
+                            "indices": [
+                                6,
+                                11
+                            ]
+                        }
+                    ],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": [
+                        {
+                            "url": "https://t.co/eygF2FkoJr",
+                            "expanded_url": "https://lounge.dmm.com/detail/1391/",
+                            "display_url": "lounge.dmm.com/detail/1391/",
+                            "indices": [
+                                48,
+                                71
+                            ]
+                        }
+                    ]
+                },
+                "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 3124289137,
+                    "id_str": "3124289137",
+                    "name": "\u65b0\u7530\u65b0@4.11-11.30",
+                    "screen_name": "ITKnittaarata",
+                    "location": "\u5bae\u57ce\u770c\u767b\u7c73\u5e02\u8feb\u753a\u65b0\u7530\u5b57\u72fc\u30ce\u6b2092",
+                    "description": "Fluffy party\u306b\u5165\u4f1a\u3057\u3066\u7686\u3082\u3075\u3089\u53cb\u306b\u306a\u308d\u3046",
+                    "url": null,
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 173,
+                    "friends_count": 288,
+                    "listed_count": 2,
+                    "created_at": "Wed Apr 01 13:03:11 +0000 2015",
+                    "favourites_count": 9755,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": false,
+                    "verified": false,
+                    "statuses_count": 16548,
+                    "lang": "ja",
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "C0DEED",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1055027285886042113/eGv_vkd9_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1055027285886042113/eGv_vkd9_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/3124289137/1543461827",
+                    "profile_link_color": "1DA1F2",
+                    "profile_sidebar_border_color": "C0DEED",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "has_extended_profile": true,
+                    "default_profile": true,
+                    "default_profile_image": false,
+                    "following": false,
+                    "follow_request_sent": false,
+                    "notifications": false,
+                    "translator_type": "none"
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 8,
+                "favorite_count": 12,
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "ja"
+            },
+            "is_quote_status": false,
+            "retweet_count": 8,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Wed Dec 05 22:38:08 +0000 2018",
+            "id": 1070447258196275200,
+            "id_str": "1070447258196275200",
+            "text": "\u4eca\u65e5Fluffy party\u30b5\u30ed\u30f3\u3067\u65b0\u3057\u3044\u304a\u77e5\u3089\u305b\u304c\u3042\u308a\u307e\u3059\uff01\u305c\u3072\u30c1\u30a7\u30c3\u30af\u3057\u3066\u304f\u3060\u3055\u3044\u301c\uff01\n\n#\u3075\u3089\u3066\u3043\n\u6850\u8c37\u8776\u3005\u3068\u5e73\u5c71\u7b11\u7f8e\u306e\u30aa\u30d5\u30a3\u30b7\u30e3\u30eb\u30b5\u30ed\u30f3 \uff5eFluffy party\uff5e \uff08https://t.co/hXxc7g8jrb \uff09",
+            "truncated": false,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "\u3075\u3089\u3066\u3043",
+                        "indices": [
+                            47,
+                            52
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/hXxc7g8jrb",
+                        "expanded_url": "https://lounge.dmm.com/detail/1391/",
+                        "display_url": "lounge.dmm.com/detail/1391/",
+                        "indices": [
+                            89,
+                            112
+                        ]
+                    }
+                ]
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 279901829,
+                "id_str": "279901829",
+                "name": "\u6850\u8c37\u8776\u3005\ud83c\udf41",
+                "screen_name": "choucho0115",
+                "location": "\u6771\u4eac",
+                "description": "\u30ca\u30ec\u30fc\u30bf\u30fc\u58f0\u512a\uff01\u5973\u6027 https://t.co/Xxe8ezVL0a \u4ed5\u4e8b\u4f9d\u983c\u306f\u732a\u9e7f\u8776\u25cf\u30c0\u30a6\u30f3\u30bf\u30a6\u30f3DX\uff08\u6728\u66dc22\u6642)/\u6709\u5409\u306e\u58c1/\u8131\u51fa\u5927\u5b66/TBS\u30ea\u30aa\u4e94\u8f2a\u3001\u5e73\u660c\u4e94\u8f2a/\u4e16\u754c\u6c34\u6cf3/\u4e16\u754c\u4f53\u64cd/\u4e16\u754c\u5353\u7403AbemaTV\u300eAbemaPrime\u300f\uff08\u6708\u30fb\u6c34\uff09/\u30a2\u30a4\u30c9\u30eb\u30de\u30b9\u30bf\u30fc \u5bae\u5c3e\u7f8e\u4e5f\u5f79/\u30ea\u30a2\u30eb\u8131\u51fa\u30b2\u30fc\u30e0TV",
+                "url": "https://t.co/PwPcBtRSjr",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/PwPcBtRSjr",
+                                "expanded_url": "http://choucho1515.wix.com/choucho-website",
+                                "display_url": "choucho1515.wix.com/choucho-website",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/Xxe8ezVL0a",
+                                "expanded_url": "http://Instagram.com/choucho_kiri",
+                                "display_url": "Instagram.com/choucho_kiri",
+                                "indices": [
+                                    11,
+                                    34
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "protected": false,
+                "followers_count": 43080,
+                "friends_count": 621,
+                "listed_count": 2205,
+                "created_at": "Sun Apr 10 07:17:40 +0000 2011",
+                "favourites_count": 7696,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 38551,
+                "lang": "ja",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1012715775830847488/O2amICFv_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1012715775830847488/O2amICFv_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/279901829/1540998793",
+                "profile_link_color": "FFA319",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 32,
+            "favorite_count": 82,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Wed Dec 05 11:16:11 +0000 2018",
+            "id": 1070275638773211136,
+            "id_str": "1070275638773211136",
+            "text": "\u3010Fluffy party\u30b5\u30ed\u30f3\ud83c\udf84\u30af\u30ea\u30b9\u30de\u30b9\u751f\u914d\u4fe1\u6c7a\u5b9a!!\u3011\n12\u670818\u65e5(\u706b)20:00\u301c\n\u3061\u3087\u3063\u3074\u308a\u65e9\u3081\u306e\u30af\u30ea\u30b9\u30de\u30b9\u751f\u914d\u4fe1\u3067\u3059\u30fc\uff01\uff01\ud83c\udf85\nhttps://t.co/hXxc7g8jrb\n\n\u30aa\u30f3\u30e9\u30a4\u30f3\u30b5\u30ed\u30f3\u5185\u3067\u306f\u3010\u30c1\u30e9\u30b7\u30b3\u30f3\u30da\u3011\u3082\u2026 https://t.co/JLfgkp3YTF",
+            "truncated": true,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/hXxc7g8jrb",
+                        "expanded_url": "https://lounge.dmm.com/detail/1391/",
+                        "display_url": "lounge.dmm.com/detail/1391/",
+                        "indices": [
+                            70,
+                            93
+                        ]
+                    },
+                    {
+                        "url": "https://t.co/JLfgkp3YTF",
+                        "expanded_url": "https://twitter.com/i/web/status/1070275638773211136",
+                        "display_url": "twitter.com/i/web/status/1\u2026",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ]
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 279901829,
+                "id_str": "279901829",
+                "name": "\u6850\u8c37\u8776\u3005\ud83c\udf41",
+                "screen_name": "choucho0115",
+                "location": "\u6771\u4eac",
+                "description": "\u30ca\u30ec\u30fc\u30bf\u30fc\u58f0\u512a\uff01\u5973\u6027 https://t.co/Xxe8ezVL0a \u4ed5\u4e8b\u4f9d\u983c\u306f\u732a\u9e7f\u8776\u25cf\u30c0\u30a6\u30f3\u30bf\u30a6\u30f3DX\uff08\u6728\u66dc22\u6642)/\u6709\u5409\u306e\u58c1/\u8131\u51fa\u5927\u5b66/TBS\u30ea\u30aa\u4e94\u8f2a\u3001\u5e73\u660c\u4e94\u8f2a/\u4e16\u754c\u6c34\u6cf3/\u4e16\u754c\u4f53\u64cd/\u4e16\u754c\u5353\u7403AbemaTV\u300eAbemaPrime\u300f\uff08\u6708\u30fb\u6c34\uff09/\u30a2\u30a4\u30c9\u30eb\u30de\u30b9\u30bf\u30fc \u5bae\u5c3e\u7f8e\u4e5f\u5f79/\u30ea\u30a2\u30eb\u8131\u51fa\u30b2\u30fc\u30e0TV",
+                "url": "https://t.co/PwPcBtRSjr",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/PwPcBtRSjr",
+                                "expanded_url": "http://choucho1515.wix.com/choucho-website",
+                                "display_url": "choucho1515.wix.com/choucho-website",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/Xxe8ezVL0a",
+                                "expanded_url": "http://Instagram.com/choucho_kiri",
+                                "display_url": "Instagram.com/choucho_kiri",
+                                "indices": [
+                                    11,
+                                    34
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "protected": false,
+                "followers_count": 43080,
+                "friends_count": 621,
+                "listed_count": 2205,
+                "created_at": "Sun Apr 10 07:17:40 +0000 2011",
+                "favourites_count": 7696,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 38551,
+                "lang": "ja",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1012715775830847488/O2amICFv_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1012715775830847488/O2amICFv_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/279901829/1540998793",
+                "profile_link_color": "FFA319",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 43,
+            "favorite_count": 79,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "ja"
+        }
+    ]
+}

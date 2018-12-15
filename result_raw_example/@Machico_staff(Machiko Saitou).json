@@ -1,0 +1,2635 @@
+{
+    "name": "Machiko Saitou",
+    "handle": "@Machico_staff",
+    "chara": "Tsubasa Ibuki",
+    "timestamp": 1544254037.7017345,
+    "tweets": [
+        {
+            "created_at": "Sat Dec 08 07:04:14 +0000 2018",
+            "id": 1071299396535443456,
+            "id_str": "1071299396535443456",
+            "text": "\u3010\u7269\u8ca9\u60c5\u5831\u3011\nGimme\u2661\u30d6\u30e9\u30c3\u30afT\u30b7\u30e3\u30c4 L\u30fbXL\n\u3061\u3087\u3063\u3068\u304a\u304a\u304d\u3044T\u30b7\u30e3\u30c4\n\u30d5\u30a7\u30a4\u30b9\u30bf\u30aa\u30eb\n\u5b8c\u58f2\u3057\u307e\u3057\u305f\u203c\ufe0f\n#Machico #gimme_m",
+            "truncated": false,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "Machico",
+                        "indices": [
+                            57,
+                            65
+                        ]
+                    },
+                    {
+                        "text": "gimme_m",
+                        "indices": [
+                            66,
+                            74
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": []
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 766912527368228864,
+                "id_str": "766912527368228864",
+                "name": "Machico Official",
+                "screen_name": "Machico_staff",
+                "location": "",
+                "description": "\u30db\u30ea\u30d7\u30ed\u30a4\u30f3\u30bf\u30fc\u30ca\u30b7\u30e7\u30ca\u30eb\u6240\u5c5e\u58f0\u512a\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u30fbMachico\u30aa\u30d5\u30a3\u30b7\u30e3\u30eb\u30a2\u30ab\u30a6\u30f3\u30c8\u3002\u300e\u30a2\u30a4\u30c9\u30eb\u30de\u30b9\u30bf\u30fc\u30df\u30ea\u30aa\u30f3\u30e9\u30a4\u30d6\uff01\u300f\u4f0a\u5439\u7ffc\u3001\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300f\u30c8\u30a6\u30ab\u30a4\u30c6\u30a4\u30aa\u30fc\u3001\u300e\u3089\u304f\u304a\u3093\u300f\u300e\u30a2\u30cb\u30b3\u30ed\u300f\u300e\u3071\u304b\u30e9\u30b8\u30c3\uff01\u300f12/1\u304b\u3089\u30c4\u30a2\u30fc\u958b\u59cb\uff01\uff01\uff01",
+                "url": "https://t.co/JiBGrDZT3n",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/JiBGrDZT3n",
+                                "expanded_url": "https://www.instagram.com/machico_3s25/",
+                                "display_url": "instagram.com/machico_3s25/",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 32735,
+                "friends_count": 25,
+                "listed_count": 1327,
+                "created_at": "Sat Aug 20 08:19:29 +0000 2016",
+                "favourites_count": 14,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 1269,
+                "lang": "ja",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1062994290178121728/yDQde-j6_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1062994290178121728/yDQde-j6_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/766912527368228864/1542272709",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 21,
+            "favorite_count": 48,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Sat Dec 08 06:01:04 +0000 2018",
+            "id": 1071283499968028672,
+            "id_str": "1071283499968028672",
+            "text": "\u30b5\u30b3\u30c3\u30b7\u30e5\u306e\u5185\u5074\u304b\u3089\uff97\uff72\uff84\u3084\u3063\u305f\u3089\u5996\u7cbe\u304c\u51fa\u73fe\u3057\u305f\u3088\u2728\ud83e\uddda\n\u4eca\u65e5\u306f\u5e83\u5cf6\u30bb\u30ab\u30f3\u30c9\uff65\u30af\u30e9\u30c3\u30c1\u3075\u3041\u3044\u306a\u308b\u203c\ufe0f\n\u3081\u3061\u3083\u3081\u3061\u3083\u5bd2\u3044\u3051\u3069\u71b1\u3044\u6642\u9593\u306b\u3057\u3088\u3046\u306d\uff5e\ud83d\ude07\ud83c\udfb6\nBY:#Machico(\u30fb\u5c71\u30fb) #gimme_m https://t.co/Y0Mwa3BnM3",
+            "truncated": false,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "Machico",
+                        "indices": [
+                            76,
+                            84
+                        ]
+                    },
+                    {
+                        "text": "gimme_m",
+                        "indices": [
+                            90,
+                            98
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [],
+                "media": [
+                    {
+                        "id": 1071283436998946816,
+                        "id_str": "1071283436998946816",
+                        "indices": [
+                            99,
+                            122
+                        ],
+                        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1071283436998946816/pu/img/m4uHF7znCO1NxjaU.jpg",
+                        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1071283436998946816/pu/img/m4uHF7znCO1NxjaU.jpg",
+                        "url": "https://t.co/Y0Mwa3BnM3",
+                        "display_url": "pic.twitter.com/Y0Mwa3BnM3",
+                        "expanded_url": "https://twitter.com/Machico_staff/status/1071283499968028672/video/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 511,
+                                "h": 680,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 640,
+                                "h": 852,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 640,
+                                "h": 852,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1071283436998946816,
+                        "id_str": "1071283436998946816",
+                        "indices": [
+                            99,
+                            122
+                        ],
+                        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1071283436998946816/pu/img/m4uHF7znCO1NxjaU.jpg",
+                        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1071283436998946816/pu/img/m4uHF7znCO1NxjaU.jpg",
+                        "url": "https://t.co/Y0Mwa3BnM3",
+                        "display_url": "pic.twitter.com/Y0Mwa3BnM3",
+                        "expanded_url": "https://twitter.com/Machico_staff/status/1071283499968028672/video/1",
+                        "type": "video",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 511,
+                                "h": 680,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 640,
+                                "h": 852,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 640,
+                                "h": 852,
+                                "resize": "fit"
+                            }
+                        },
+                        "video_info": {
+                            "aspect_ratio": [
+                                160,
+                                213
+                            ],
+                            "duration_millis": 27902,
+                            "variants": [
+                                {
+                                    "content_type": "application/x-mpegURL",
+                                    "url": "https://video.twimg.com/ext_tw_video/1071283436998946816/pu/pl/8viRhNrbK52CXYaN.m3u8?tag=6"
+                                },
+                                {
+                                    "bitrate": 632000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/ext_tw_video/1071283436998946816/pu/vid/320x426/1ggkPnZI2Qi1nEUn.mp4?tag=6"
+                                },
+                                {
+                                    "bitrate": 832000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/ext_tw_video/1071283436998946816/pu/vid/360x478/VSkZ0bH_nsm3UlUT.mp4?tag=6"
+                                },
+                                {
+                                    "bitrate": 2176000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/ext_tw_video/1071283436998946816/pu/vid/640x852/3W_fDKjr90UzoYa1.mp4?tag=6"
+                                }
+                            ]
+                        },
+                        "additional_media_info": {
+                            "monetizable": false
+                        }
+                    }
+                ]
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 766912527368228864,
+                "id_str": "766912527368228864",
+                "name": "Machico Official",
+                "screen_name": "Machico_staff",
+                "location": "",
+                "description": "\u30db\u30ea\u30d7\u30ed\u30a4\u30f3\u30bf\u30fc\u30ca\u30b7\u30e7\u30ca\u30eb\u6240\u5c5e\u58f0\u512a\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u30fbMachico\u30aa\u30d5\u30a3\u30b7\u30e3\u30eb\u30a2\u30ab\u30a6\u30f3\u30c8\u3002\u300e\u30a2\u30a4\u30c9\u30eb\u30de\u30b9\u30bf\u30fc\u30df\u30ea\u30aa\u30f3\u30e9\u30a4\u30d6\uff01\u300f\u4f0a\u5439\u7ffc\u3001\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300f\u30c8\u30a6\u30ab\u30a4\u30c6\u30a4\u30aa\u30fc\u3001\u300e\u3089\u304f\u304a\u3093\u300f\u300e\u30a2\u30cb\u30b3\u30ed\u300f\u300e\u3071\u304b\u30e9\u30b8\u30c3\uff01\u300f12/1\u304b\u3089\u30c4\u30a2\u30fc\u958b\u59cb\uff01\uff01\uff01",
+                "url": "https://t.co/JiBGrDZT3n",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/JiBGrDZT3n",
+                                "expanded_url": "https://www.instagram.com/machico_3s25/",
+                                "display_url": "instagram.com/machico_3s25/",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 32735,
+                "friends_count": 25,
+                "listed_count": 1327,
+                "created_at": "Sat Aug 20 08:19:29 +0000 2016",
+                "favourites_count": 14,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 1269,
+                "lang": "ja",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1062994290178121728/yDQde-j6_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1062994290178121728/yDQde-j6_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/766912527368228864/1542272709",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 148,
+            "favorite_count": 426,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Sat Dec 08 03:53:33 +0000 2018",
+            "id": 1071251408203042817,
+            "id_str": "1071251408203042817",
+            "text": "Machico Live Tour 2018\u300cGimme\u2661\u300d\n\u672c\u65e5\u30d5\u30a1\u30a4\u30ca\u30eb\uff20\u5e83\u5cf6\u30bb\u30ab\u30f3\u30c9\u30fb\u30af\u30e9\u30c3\u30c1\u3067\u3059\u203c\ufe0f\ud83e\uddda\u200d\u2640\ufe0f\n17:00\u958b\u5834\uff0f17:30\u958b\u6f14\u3067\u3059\ud83d\ude47\u200d\u2640\ufe0f\n\u6a2a\u6d5c\u306ePOP\u3001\u4ee3\u5b98\u5c71\u306eCUTE\u306b\u7d9a\u304d\u3001\u5e83\u5cf6\u306fROCK\u26a1\ufe0f\n\u305f\u304f\u3055\u3093\u305f\u2026 https://t.co/eBS42PLOkN",
+            "truncated": true,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/eBS42PLOkN",
+                        "expanded_url": "https://twitter.com/i/web/status/1071251408203042817",
+                        "display_url": "twitter.com/i/web/status/1\u2026",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ]
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 766912527368228864,
+                "id_str": "766912527368228864",
+                "name": "Machico Official",
+                "screen_name": "Machico_staff",
+                "location": "",
+                "description": "\u30db\u30ea\u30d7\u30ed\u30a4\u30f3\u30bf\u30fc\u30ca\u30b7\u30e7\u30ca\u30eb\u6240\u5c5e\u58f0\u512a\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u30fbMachico\u30aa\u30d5\u30a3\u30b7\u30e3\u30eb\u30a2\u30ab\u30a6\u30f3\u30c8\u3002\u300e\u30a2\u30a4\u30c9\u30eb\u30de\u30b9\u30bf\u30fc\u30df\u30ea\u30aa\u30f3\u30e9\u30a4\u30d6\uff01\u300f\u4f0a\u5439\u7ffc\u3001\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300f\u30c8\u30a6\u30ab\u30a4\u30c6\u30a4\u30aa\u30fc\u3001\u300e\u3089\u304f\u304a\u3093\u300f\u300e\u30a2\u30cb\u30b3\u30ed\u300f\u300e\u3071\u304b\u30e9\u30b8\u30c3\uff01\u300f12/1\u304b\u3089\u30c4\u30a2\u30fc\u958b\u59cb\uff01\uff01\uff01",
+                "url": "https://t.co/JiBGrDZT3n",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/JiBGrDZT3n",
+                                "expanded_url": "https://www.instagram.com/machico_3s25/",
+                                "display_url": "instagram.com/machico_3s25/",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 32735,
+                "friends_count": 25,
+                "listed_count": 1327,
+                "created_at": "Sat Aug 20 08:19:29 +0000 2016",
+                "favourites_count": 14,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 1269,
+                "lang": "ja",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1062994290178121728/yDQde-j6_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1062994290178121728/yDQde-j6_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/766912527368228864/1542272709",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 100,
+            "favorite_count": 253,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Fri Dec 07 12:59:43 +0000 2018",
+            "id": 1071026467679592454,
+            "id_str": "1071026467679592454",
+            "text": "\u304b\u3048\u308b\u3074\u3087\u3053\u3074\u3087\u3053 \u30fc \u30a2\u30e1\u30d6\u30ed\u3092\u66f4\u65b0\u3057\u307e\u3057\u305f\n#MACHICO\nhttps://t.co/wl0uLnxMDq",
+            "truncated": false,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "MACHICO",
+                        "indices": [
+                            24,
+                            32
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/wl0uLnxMDq",
+                        "expanded_url": "https://ameblo.jp/miumachi10/entry-12424406806.html?timestamp=1544187583",
+                        "display_url": "ameblo.jp/miumachi10/ent\u2026",
+                        "indices": [
+                            33,
+                            56
+                        ]
+                    }
+                ]
+            },
+            "source": "<a href=\"http://www.ameba.jp\" rel=\"nofollow\">Ameba smartphone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 766912527368228864,
+                "id_str": "766912527368228864",
+                "name": "Machico Official",
+                "screen_name": "Machico_staff",
+                "location": "",
+                "description": "\u30db\u30ea\u30d7\u30ed\u30a4\u30f3\u30bf\u30fc\u30ca\u30b7\u30e7\u30ca\u30eb\u6240\u5c5e\u58f0\u512a\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u30fbMachico\u30aa\u30d5\u30a3\u30b7\u30e3\u30eb\u30a2\u30ab\u30a6\u30f3\u30c8\u3002\u300e\u30a2\u30a4\u30c9\u30eb\u30de\u30b9\u30bf\u30fc\u30df\u30ea\u30aa\u30f3\u30e9\u30a4\u30d6\uff01\u300f\u4f0a\u5439\u7ffc\u3001\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300f\u30c8\u30a6\u30ab\u30a4\u30c6\u30a4\u30aa\u30fc\u3001\u300e\u3089\u304f\u304a\u3093\u300f\u300e\u30a2\u30cb\u30b3\u30ed\u300f\u300e\u3071\u304b\u30e9\u30b8\u30c3\uff01\u300f12/1\u304b\u3089\u30c4\u30a2\u30fc\u958b\u59cb\uff01\uff01\uff01",
+                "url": "https://t.co/JiBGrDZT3n",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/JiBGrDZT3n",
+                                "expanded_url": "https://www.instagram.com/machico_3s25/",
+                                "display_url": "instagram.com/machico_3s25/",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 32735,
+                "friends_count": 25,
+                "listed_count": 1327,
+                "created_at": "Sat Aug 20 08:19:29 +0000 2016",
+                "favourites_count": 14,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 1269,
+                "lang": "ja",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1062994290178121728/yDQde-j6_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1062994290178121728/yDQde-j6_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/766912527368228864/1542272709",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 58,
+            "favorite_count": 200,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Thu Dec 06 13:01:03 +0000 2018",
+            "id": 1070664417937809408,
+            "id_str": "1070664417937809408",
+            "text": "\u3055\u3063\u3063\u3063\u3063\u3063\u3063\u3063\u3063\u3063\u3080 \u30fc \u30a2\u30e1\u30d6\u30ed\u3092\u66f4\u65b0\u3057\u307e\u3057\u305f\n#MACHICO\nhttps://t.co/8FfSJEPbUU",
+            "truncated": false,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "MACHICO",
+                        "indices": [
+                            26,
+                            34
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/8FfSJEPbUU",
+                        "expanded_url": "https://ameblo.jp/miumachi10/entry-12424156709.html?timestamp=1544101264",
+                        "display_url": "ameblo.jp/miumachi10/ent\u2026",
+                        "indices": [
+                            35,
+                            58
+                        ]
+                    }
+                ]
+            },
+            "source": "<a href=\"http://www.ameba.jp\" rel=\"nofollow\">Ameba smartphone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 766912527368228864,
+                "id_str": "766912527368228864",
+                "name": "Machico Official",
+                "screen_name": "Machico_staff",
+                "location": "",
+                "description": "\u30db\u30ea\u30d7\u30ed\u30a4\u30f3\u30bf\u30fc\u30ca\u30b7\u30e7\u30ca\u30eb\u6240\u5c5e\u58f0\u512a\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u30fbMachico\u30aa\u30d5\u30a3\u30b7\u30e3\u30eb\u30a2\u30ab\u30a6\u30f3\u30c8\u3002\u300e\u30a2\u30a4\u30c9\u30eb\u30de\u30b9\u30bf\u30fc\u30df\u30ea\u30aa\u30f3\u30e9\u30a4\u30d6\uff01\u300f\u4f0a\u5439\u7ffc\u3001\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300f\u30c8\u30a6\u30ab\u30a4\u30c6\u30a4\u30aa\u30fc\u3001\u300e\u3089\u304f\u304a\u3093\u300f\u300e\u30a2\u30cb\u30b3\u30ed\u300f\u300e\u3071\u304b\u30e9\u30b8\u30c3\uff01\u300f12/1\u304b\u3089\u30c4\u30a2\u30fc\u958b\u59cb\uff01\uff01\uff01",
+                "url": "https://t.co/JiBGrDZT3n",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/JiBGrDZT3n",
+                                "expanded_url": "https://www.instagram.com/machico_3s25/",
+                                "display_url": "instagram.com/machico_3s25/",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 32735,
+                "friends_count": 25,
+                "listed_count": 1327,
+                "created_at": "Sat Aug 20 08:19:29 +0000 2016",
+                "favourites_count": 14,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 1269,
+                "lang": "ja",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1062994290178121728/yDQde-j6_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1062994290178121728/yDQde-j6_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/766912527368228864/1542272709",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 80,
+            "favorite_count": 253,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Wed Dec 05 13:15:15 +0000 2018",
+            "id": 1070305602293755905,
+            "id_str": "1070305602293755905",
+            "text": "\u308d\u3063\u304f\u304a\u3093\uff01 \u30fc \u30a2\u30e1\u30d6\u30ed\u3092\u66f4\u65b0\u3057\u307e\u3057\u305f\n#MACHICO\nhttps://t.co/r9XWFErTPv",
+            "truncated": false,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "MACHICO",
+                        "indices": [
+                            21,
+                            29
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/r9XWFErTPv",
+                        "expanded_url": "https://ameblo.jp/miumachi10/entry-12423915401.html?timestamp=1544015715",
+                        "display_url": "ameblo.jp/miumachi10/ent\u2026",
+                        "indices": [
+                            30,
+                            53
+                        ]
+                    }
+                ]
+            },
+            "source": "<a href=\"http://www.ameba.jp\" rel=\"nofollow\">Ameba smartphone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 766912527368228864,
+                "id_str": "766912527368228864",
+                "name": "Machico Official",
+                "screen_name": "Machico_staff",
+                "location": "",
+                "description": "\u30db\u30ea\u30d7\u30ed\u30a4\u30f3\u30bf\u30fc\u30ca\u30b7\u30e7\u30ca\u30eb\u6240\u5c5e\u58f0\u512a\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u30fbMachico\u30aa\u30d5\u30a3\u30b7\u30e3\u30eb\u30a2\u30ab\u30a6\u30f3\u30c8\u3002\u300e\u30a2\u30a4\u30c9\u30eb\u30de\u30b9\u30bf\u30fc\u30df\u30ea\u30aa\u30f3\u30e9\u30a4\u30d6\uff01\u300f\u4f0a\u5439\u7ffc\u3001\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300f\u30c8\u30a6\u30ab\u30a4\u30c6\u30a4\u30aa\u30fc\u3001\u300e\u3089\u304f\u304a\u3093\u300f\u300e\u30a2\u30cb\u30b3\u30ed\u300f\u300e\u3071\u304b\u30e9\u30b8\u30c3\uff01\u300f12/1\u304b\u3089\u30c4\u30a2\u30fc\u958b\u59cb\uff01\uff01\uff01",
+                "url": "https://t.co/JiBGrDZT3n",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/JiBGrDZT3n",
+                                "expanded_url": "https://www.instagram.com/machico_3s25/",
+                                "display_url": "instagram.com/machico_3s25/",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 32735,
+                "friends_count": 25,
+                "listed_count": 1327,
+                "created_at": "Sat Aug 20 08:19:29 +0000 2016",
+                "favourites_count": 14,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 1269,
+                "lang": "ja",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1062994290178121728/yDQde-j6_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1062994290178121728/yDQde-j6_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/766912527368228864/1542272709",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 62,
+            "favorite_count": 228,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Tue Dec 04 12:45:18 +0000 2018",
+            "id": 1069935678962561025,
+            "id_str": "1069935678962561025",
+            "text": "\u4eca\u65e5\u306f\u53d6\u6750Day! \u30fc \u30a2\u30e1\u30d6\u30ed\u3092\u66f4\u65b0\u3057\u307e\u3057\u305f\n#MACHICO\nhttps://t.co/b1XnFnIaZV",
+            "truncated": false,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "MACHICO",
+                        "indices": [
+                            24,
+                            32
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/b1XnFnIaZV",
+                        "expanded_url": "https://ameblo.jp/miumachi10/entry-12423679935.html?timestamp=1543927519",
+                        "display_url": "ameblo.jp/miumachi10/ent\u2026",
+                        "indices": [
+                            33,
+                            56
+                        ]
+                    }
+                ]
+            },
+            "source": "<a href=\"http://www.ameba.jp\" rel=\"nofollow\">Ameba smartphone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 766912527368228864,
+                "id_str": "766912527368228864",
+                "name": "Machico Official",
+                "screen_name": "Machico_staff",
+                "location": "",
+                "description": "\u30db\u30ea\u30d7\u30ed\u30a4\u30f3\u30bf\u30fc\u30ca\u30b7\u30e7\u30ca\u30eb\u6240\u5c5e\u58f0\u512a\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u30fbMachico\u30aa\u30d5\u30a3\u30b7\u30e3\u30eb\u30a2\u30ab\u30a6\u30f3\u30c8\u3002\u300e\u30a2\u30a4\u30c9\u30eb\u30de\u30b9\u30bf\u30fc\u30df\u30ea\u30aa\u30f3\u30e9\u30a4\u30d6\uff01\u300f\u4f0a\u5439\u7ffc\u3001\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300f\u30c8\u30a6\u30ab\u30a4\u30c6\u30a4\u30aa\u30fc\u3001\u300e\u3089\u304f\u304a\u3093\u300f\u300e\u30a2\u30cb\u30b3\u30ed\u300f\u300e\u3071\u304b\u30e9\u30b8\u30c3\uff01\u300f12/1\u304b\u3089\u30c4\u30a2\u30fc\u958b\u59cb\uff01\uff01\uff01",
+                "url": "https://t.co/JiBGrDZT3n",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/JiBGrDZT3n",
+                                "expanded_url": "https://www.instagram.com/machico_3s25/",
+                                "display_url": "instagram.com/machico_3s25/",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 32735,
+                "friends_count": 25,
+                "listed_count": 1327,
+                "created_at": "Sat Aug 20 08:19:29 +0000 2016",
+                "favourites_count": 14,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 1269,
+                "lang": "ja",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1062994290178121728/yDQde-j6_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1062994290178121728/yDQde-j6_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/766912527368228864/1542272709",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 89,
+            "favorite_count": 338,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Mon Dec 03 14:23:40 +0000 2018",
+            "id": 1069598043333226497,
+            "id_str": "1069598043333226497",
+            "text": "@yamazaki_haruka \u3042\u308a\u304c\u3068\uff5e\uff5e\u2728(*\u00b4\u7f52`*)\u2728\n\u78ba\u304b\u306b\u5199\u771f\u64ae\u308a\u305f\u304b\u3063\u305f\u306a\uff5e\ud83d\udcf7\ufe0f\n\u30d4\u30f3\u30af\u5165\u308c\u305f\u77ac\u9593\u300e\u3053\u308c\u306f\u308b\u306b\u3083\u3093\u3084\uff01\uff01\uff01\u300f\u3063\u3066\u601d\u3063\u305f\u305e\ud83d\udc7c\ud83c\udfb6\n\u3066\u304b\u3081\u3063\u3061\u3083\u8272\u629c\u3044\u305f\u306d\uff01\u4eca\u306e\u660e\u308b\u3081\u30ab\u30e9\u30fc\u3088\u3044\u3088\u3044\ud83d\udc71\ud83c\udf3c\nBY:Machico(\u30fb\u5c71\u30fb)",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "yamazaki_haruka",
+                        "name": "\u5c71\u5d0e\u306f\u308b\u304b",
+                        "id": 165028770,
+                        "id_str": "165028770",
+                        "indices": [
+                            0,
+                            16
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": 1069402681221890048,
+            "in_reply_to_status_id_str": "1069402681221890048",
+            "in_reply_to_user_id": 165028770,
+            "in_reply_to_user_id_str": "165028770",
+            "in_reply_to_screen_name": "yamazaki_haruka",
+            "user": {
+                "id": 766912527368228864,
+                "id_str": "766912527368228864",
+                "name": "Machico Official",
+                "screen_name": "Machico_staff",
+                "location": "",
+                "description": "\u30db\u30ea\u30d7\u30ed\u30a4\u30f3\u30bf\u30fc\u30ca\u30b7\u30e7\u30ca\u30eb\u6240\u5c5e\u58f0\u512a\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u30fbMachico\u30aa\u30d5\u30a3\u30b7\u30e3\u30eb\u30a2\u30ab\u30a6\u30f3\u30c8\u3002\u300e\u30a2\u30a4\u30c9\u30eb\u30de\u30b9\u30bf\u30fc\u30df\u30ea\u30aa\u30f3\u30e9\u30a4\u30d6\uff01\u300f\u4f0a\u5439\u7ffc\u3001\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300f\u30c8\u30a6\u30ab\u30a4\u30c6\u30a4\u30aa\u30fc\u3001\u300e\u3089\u304f\u304a\u3093\u300f\u300e\u30a2\u30cb\u30b3\u30ed\u300f\u300e\u3071\u304b\u30e9\u30b8\u30c3\uff01\u300f12/1\u304b\u3089\u30c4\u30a2\u30fc\u958b\u59cb\uff01\uff01\uff01",
+                "url": "https://t.co/JiBGrDZT3n",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/JiBGrDZT3n",
+                                "expanded_url": "https://www.instagram.com/machico_3s25/",
+                                "display_url": "instagram.com/machico_3s25/",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 32735,
+                "friends_count": 25,
+                "listed_count": 1327,
+                "created_at": "Sat Aug 20 08:19:29 +0000 2016",
+                "favourites_count": 14,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 1269,
+                "lang": "ja",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1062994290178121728/yDQde-j6_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1062994290178121728/yDQde-j6_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/766912527368228864/1542272709",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 18,
+            "favorite_count": 140,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Mon Dec 03 13:34:55 +0000 2018",
+            "id": 1069585776831156224,
+            "id_str": "1069585776831156224",
+            "text": "RT @HiBiKi_REFRESH: \u3010\u4ef2\u6751\u5b97\u609f\u30fbMachico\u306e\u3089\u304f\u304a\u3093\u3011\n2/24\u306e\u30a4\u30d9\u30f3\u30c8\u30c1\u30b1\u30c3\u30c8\u306e\u304a\u7533\u8fbc\u307f\u306b\u95a2\u3057\u3066\u3001\u663c\u591c\u4e21\u90e8\u3068\u3082\u7533\u3057\u8fbc\u307f\u3059\u308b\u65b9\u6cd5\u306b\u95a2\u3057\u307e\u3057\u3066\u306f\u73fe\u5728\u30c1\u30b1\u30c3\u30c8\u3074\u3042\u3055\u3093\u306b\u78ba\u8a8d\u3057\u3066\u304a\u308a\u307e\u3059\u3002\u660e\u65e5\u4ee5\u964d\u3067\u8ffd\u3063\u3066\u3054\u9023\u7d61\u3055\u305b\u3066\u9802\u304d\u307e\u3059\u3002\u3054\u5fc3\u914d\u3092\u304a\u304b\u3051\u3044\u305f\u3057\u307e\u3059\u304c\u3001\u4f55\u5352\u2026",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "HiBiKi_REFRESH",
+                        "name": "\u97ffREFRESH!",
+                        "id": 979635260135686144,
+                        "id_str": "979635260135686144",
+                        "indices": [
+                            3,
+                            18
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 766912527368228864,
+                "id_str": "766912527368228864",
+                "name": "Machico Official",
+                "screen_name": "Machico_staff",
+                "location": "",
+                "description": "\u30db\u30ea\u30d7\u30ed\u30a4\u30f3\u30bf\u30fc\u30ca\u30b7\u30e7\u30ca\u30eb\u6240\u5c5e\u58f0\u512a\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u30fbMachico\u30aa\u30d5\u30a3\u30b7\u30e3\u30eb\u30a2\u30ab\u30a6\u30f3\u30c8\u3002\u300e\u30a2\u30a4\u30c9\u30eb\u30de\u30b9\u30bf\u30fc\u30df\u30ea\u30aa\u30f3\u30e9\u30a4\u30d6\uff01\u300f\u4f0a\u5439\u7ffc\u3001\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300f\u30c8\u30a6\u30ab\u30a4\u30c6\u30a4\u30aa\u30fc\u3001\u300e\u3089\u304f\u304a\u3093\u300f\u300e\u30a2\u30cb\u30b3\u30ed\u300f\u300e\u3071\u304b\u30e9\u30b8\u30c3\uff01\u300f12/1\u304b\u3089\u30c4\u30a2\u30fc\u958b\u59cb\uff01\uff01\uff01",
+                "url": "https://t.co/JiBGrDZT3n",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/JiBGrDZT3n",
+                                "expanded_url": "https://www.instagram.com/machico_3s25/",
+                                "display_url": "instagram.com/machico_3s25/",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 32735,
+                "friends_count": 25,
+                "listed_count": 1327,
+                "created_at": "Sat Aug 20 08:19:29 +0000 2016",
+                "favourites_count": 14,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 1269,
+                "lang": "ja",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1062994290178121728/yDQde-j6_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1062994290178121728/yDQde-j6_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/766912527368228864/1542272709",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Mon Dec 03 13:30:02 +0000 2018",
+                "id": 1069584545693892608,
+                "id_str": "1069584545693892608",
+                "text": "\u3010\u4ef2\u6751\u5b97\u609f\u30fbMachico\u306e\u3089\u304f\u304a\u3093\u3011\n2/24\u306e\u30a4\u30d9\u30f3\u30c8\u30c1\u30b1\u30c3\u30c8\u306e\u304a\u7533\u8fbc\u307f\u306b\u95a2\u3057\u3066\u3001\u663c\u591c\u4e21\u90e8\u3068\u3082\u7533\u3057\u8fbc\u307f\u3059\u308b\u65b9\u6cd5\u306b\u95a2\u3057\u307e\u3057\u3066\u306f\u73fe\u5728\u30c1\u30b1\u30c3\u30c8\u3074\u3042\u3055\u3093\u306b\u78ba\u8a8d\u3057\u3066\u304a\u308a\u307e\u3059\u3002\u660e\u65e5\u4ee5\u964d\u3067\u8ffd\u3063\u3066\u3054\u9023\u7d61\u3055\u305b\u3066\u9802\u304d\u307e\u3059\u3002\u3054\u5fc3\u914d\u3092\u304a\u304b\u3051\u3044\u305f\u3057\u307e\u3059\u304c\u3001\u4f55\u5352\u3088\u308d\u3057\u304f\u304a\u9858\u3044\u3044\u305f\u3057\u307e\u3059\u3002 #\u3089\u304f\u304a\u3093",
+                "truncated": false,
+                "entities": {
+                    "hashtags": [
+                        {
+                            "text": "\u3089\u304f\u304a\u3093",
+                            "indices": [
+                                133,
+                                138
+                            ]
+                        }
+                    ],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": []
+                },
+                "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 979635260135686144,
+                    "id_str": "979635260135686144",
+                    "name": "\u97ffREFRESH!",
+                    "screen_name": "HiBiKi_REFRESH",
+                    "location": "\u6771\u4eac\u30fb\u4e2d\u91ce\u533a",
+                    "description": "\u300cFRESH LIVE \u97ff\u30c1\u30e3\u30f3\u30cd\u30eb\u300d\u304b\u3089\u63d0\u4f9b\u3059\u308b\u300c\u97ffREFRESH!\u300d\u306eTwitter\u30a2\u30ab\u30a6\u30f3\u30c8\u3067\u3059\u3002 2018\u5e744\u67089\u65e5(\u6708)\u3088\u308a\u6708\u66dc\u65e5\uff5e\u91d1\u66dc\u65e5\u306e21:30\uff5e22:00\u306e\u6642\u9593\u67a0\u3067\u4e00\u65e5\u306e\u6700\u5f8c\u3092\u7de0\u3081\u304f\u304f\u308a\u3001\u660e\u65e5\u306e\u6d3b\u529b\u3068\u306a\u308b\u3088\u3046\u306a\u30aa\u30ea\u30b8\u30ca\u30eb\u30e9\u30b8\u30aa\uff15\u756a\u7d44\u3092\u63d0\u4f9b\u3057\u3066\u3044\u304d\u307e\u3059\u3002\u203b\u500b\u5225\u306e\u8fd4\u7b54\u306f\u3067\u304d\u304b\u306d\u307e\u3059\u3002\u904b\u55b6\uff1a\u682a\u5f0f\u4f1a\u793e \u97ff",
+                    "url": "https://t.co/XB6WNkISRb",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "url": "https://t.co/XB6WNkISRb",
+                                    "expanded_url": "https://freshlive.tv/hibiki",
+                                    "display_url": "freshlive.tv/hibiki",
+                                    "indices": [
+                                        0,
+                                        23
+                                    ]
+                                }
+                            ]
+                        },
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 4646,
+                    "friends_count": 4,
+                    "listed_count": 40,
+                    "created_at": "Fri Mar 30 08:23:41 +0000 2018",
+                    "favourites_count": 9,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": false,
+                    "verified": false,
+                    "statuses_count": 1352,
+                    "lang": "ja",
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "000000",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/979635772121784320/nn_kXYuT_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/979635772121784320/nn_kXYuT_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/979635260135686144/1522990349",
+                    "profile_link_color": "FF691F",
+                    "profile_sidebar_border_color": "000000",
+                    "profile_sidebar_fill_color": "000000",
+                    "profile_text_color": "000000",
+                    "profile_use_background_image": false,
+                    "has_extended_profile": false,
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "following": false,
+                    "follow_request_sent": false,
+                    "notifications": false,
+                    "translator_type": "none"
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 64,
+                "favorite_count": 92,
+                "favorited": false,
+                "retweeted": false,
+                "lang": "ja"
+            },
+            "is_quote_status": false,
+            "retweet_count": 64,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Mon Dec 03 13:14:48 +0000 2018",
+            "id": 1069580713446395905,
+            "id_str": "1069580713446395905",
+            "text": "#\u3089\u304f\u304a\u3093 \u3042\u308a\u304c\u3068\u3046\u3054\u3056\u3044\u307e\u3057\u305f\ud83d\ude4c\ud83d\ude4c\n\u3044\u3093\u3068\u308d\u306f\u30b9\u30ad\u30de\u30b9\u30a4\u30c3\u30c1\u3055\u3093\u306e\u30b4\u30fc\u30eb\u30c7\u30f3\u30bf\u30a4\u30e0\u30e9\u30d0\u30fc\u266a\n\uff8a\uff76\uff9e\uff9a\uff9d\u3053\u306e\u524d\u898b\u8fd4\u3057\u305f\u3070\u3063\u304b\u3060\u3063\u305f\u3051\u3093\u3081\u3063\u3061\u3083\uff80\uff72\uff91\uff98\uff70\u231b\ufe0f\n2\u6708\u3089\u304f\u304a\u3093\uff72\uff8d\uff9e\u3082\u305f\u306e\u3057\u307f\u3060\uff5e\u2728\ud83e\uddda\n25\u6642\u307e\u3067\u914d\u4fe1\u4e2d\ud83c\udf08\nBY:\u2026 https://t.co/Ndac6Rv2kU",
+            "truncated": true,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "\u3089\u304f\u304a\u3093",
+                        "indices": [
+                            0,
+                            5
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/Ndac6Rv2kU",
+                        "expanded_url": "https://twitter.com/i/web/status/1069580713446395905",
+                        "display_url": "twitter.com/i/web/status/1\u2026",
+                        "indices": [
+                            114,
+                            137
+                        ]
+                    }
+                ]
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 766912527368228864,
+                "id_str": "766912527368228864",
+                "name": "Machico Official",
+                "screen_name": "Machico_staff",
+                "location": "",
+                "description": "\u30db\u30ea\u30d7\u30ed\u30a4\u30f3\u30bf\u30fc\u30ca\u30b7\u30e7\u30ca\u30eb\u6240\u5c5e\u58f0\u512a\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u30fbMachico\u30aa\u30d5\u30a3\u30b7\u30e3\u30eb\u30a2\u30ab\u30a6\u30f3\u30c8\u3002\u300e\u30a2\u30a4\u30c9\u30eb\u30de\u30b9\u30bf\u30fc\u30df\u30ea\u30aa\u30f3\u30e9\u30a4\u30d6\uff01\u300f\u4f0a\u5439\u7ffc\u3001\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300f\u30c8\u30a6\u30ab\u30a4\u30c6\u30a4\u30aa\u30fc\u3001\u300e\u3089\u304f\u304a\u3093\u300f\u300e\u30a2\u30cb\u30b3\u30ed\u300f\u300e\u3071\u304b\u30e9\u30b8\u30c3\uff01\u300f12/1\u304b\u3089\u30c4\u30a2\u30fc\u958b\u59cb\uff01\uff01\uff01",
+                "url": "https://t.co/JiBGrDZT3n",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/JiBGrDZT3n",
+                                "expanded_url": "https://www.instagram.com/machico_3s25/",
+                                "display_url": "instagram.com/machico_3s25/",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 32735,
+                "friends_count": 25,
+                "listed_count": 1327,
+                "created_at": "Sat Aug 20 08:19:29 +0000 2016",
+                "favourites_count": 14,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 1269,
+                "lang": "ja",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1062994290178121728/yDQde-j6_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1062994290178121728/yDQde-j6_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/766912527368228864/1542272709",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": true,
+            "quoted_status_id": 1069577194144333825,
+            "quoted_status_id_str": "1069577194144333825",
+            "quoted_status": {
+                "created_at": "Mon Dec 03 13:00:49 +0000 2018",
+                "id": 1069577194144333825,
+                "id_str": "1069577194144333825",
+                "text": "\u3010\u4ef2\u6751\u5b97\u609f\u30fbMachico\u306e\u3089\u304f\u304a\u3093\u3011\n\u4eca\u9031\u3082\u3054\u8996\u8074\u3001\u3042\u308a\u304c\u3068\u3046\u3054\u3056\u3044\u307e\u3057\u305f\uff01\u3053\u308c\u304b\u3089\u30a4\u30d9\u30f3\u30c8\u306b\u5411\u3051\u3066\u30f4\u30a7\u30ce\u30fc\u30f4\u30a1\u3082\u7df4\u7fd2\u3057\u3066\u3044\u304d\u307e\u3059\u3088\uff01\u5f15\u304d\u7d9a\u304d\u4e8c\u4eba\u306e\u5fdc\u63f4\uff08\u30c4\u30c3\u30b3\u30df\uff09\u3088\u308d\u3057\u304f\u304a\u9858\u3044\u3057\u307e\u3059\ud83d\udc10#\u3089\u304f\u304a\u3093\n\n\u25bc\u8996\u8074\u2026 https://t.co/GUqJX8NgEp",
+                "truncated": true,
+                "entities": {
+                    "hashtags": [
+                        {
+                            "text": "\u3089\u304f\u304a\u3093",
+                            "indices": [
+                                94,
+                                99
+                            ]
+                        }
+                    ],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": [
+                        {
+                            "url": "https://t.co/GUqJX8NgEp",
+                            "expanded_url": "https://twitter.com/i/web/status/1069577194144333825",
+                            "display_url": "twitter.com/i/web/status/1\u2026",
+                            "indices": [
+                                106,
+                                129
+                            ]
+                        }
+                    ]
+                },
+                "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 979635260135686144,
+                    "id_str": "979635260135686144",
+                    "name": "\u97ffREFRESH!",
+                    "screen_name": "HiBiKi_REFRESH",
+                    "location": "\u6771\u4eac\u30fb\u4e2d\u91ce\u533a",
+                    "description": "\u300cFRESH LIVE \u97ff\u30c1\u30e3\u30f3\u30cd\u30eb\u300d\u304b\u3089\u63d0\u4f9b\u3059\u308b\u300c\u97ffREFRESH!\u300d\u306eTwitter\u30a2\u30ab\u30a6\u30f3\u30c8\u3067\u3059\u3002 2018\u5e744\u67089\u65e5(\u6708)\u3088\u308a\u6708\u66dc\u65e5\uff5e\u91d1\u66dc\u65e5\u306e21:30\uff5e22:00\u306e\u6642\u9593\u67a0\u3067\u4e00\u65e5\u306e\u6700\u5f8c\u3092\u7de0\u3081\u304f\u304f\u308a\u3001\u660e\u65e5\u306e\u6d3b\u529b\u3068\u306a\u308b\u3088\u3046\u306a\u30aa\u30ea\u30b8\u30ca\u30eb\u30e9\u30b8\u30aa\uff15\u756a\u7d44\u3092\u63d0\u4f9b\u3057\u3066\u3044\u304d\u307e\u3059\u3002\u203b\u500b\u5225\u306e\u8fd4\u7b54\u306f\u3067\u304d\u304b\u306d\u307e\u3059\u3002\u904b\u55b6\uff1a\u682a\u5f0f\u4f1a\u793e \u97ff",
+                    "url": "https://t.co/XB6WNkISRb",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "url": "https://t.co/XB6WNkISRb",
+                                    "expanded_url": "https://freshlive.tv/hibiki",
+                                    "display_url": "freshlive.tv/hibiki",
+                                    "indices": [
+                                        0,
+                                        23
+                                    ]
+                                }
+                            ]
+                        },
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 4646,
+                    "friends_count": 4,
+                    "listed_count": 40,
+                    "created_at": "Fri Mar 30 08:23:41 +0000 2018",
+                    "favourites_count": 9,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": false,
+                    "verified": false,
+                    "statuses_count": 1352,
+                    "lang": "ja",
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "000000",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/979635772121784320/nn_kXYuT_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/979635772121784320/nn_kXYuT_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/979635260135686144/1522990349",
+                    "profile_link_color": "FF691F",
+                    "profile_sidebar_border_color": "000000",
+                    "profile_sidebar_fill_color": "000000",
+                    "profile_text_color": "000000",
+                    "profile_use_background_image": false,
+                    "has_extended_profile": false,
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "following": false,
+                    "follow_request_sent": false,
+                    "notifications": false,
+                    "translator_type": "none"
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 256,
+                "favorite_count": 546,
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "ja"
+            },
+            "retweet_count": 68,
+            "favorite_count": 218,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Mon Dec 03 13:00:34 +0000 2018",
+            "id": 1069577133213724673,
+            "id_str": "1069577133213724673",
+            "text": "\u3059\u3084\u3059\u3084\u3075\u3084\u3075 \u30fc \u30a2\u30e1\u30d6\u30ed\u3092\u66f4\u65b0\u3057\u307e\u3057\u305f\n#MACHICO\nhttps://t.co/FiUSUrLYr7",
+            "truncated": false,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "MACHICO",
+                        "indices": [
+                            22,
+                            30
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/FiUSUrLYr7",
+                        "expanded_url": "https://ameblo.jp/miumachi10/entry-12423442433.html?timestamp=1543842035",
+                        "display_url": "ameblo.jp/miumachi10/ent\u2026",
+                        "indices": [
+                            31,
+                            54
+                        ]
+                    }
+                ]
+            },
+            "source": "<a href=\"http://www.ameba.jp\" rel=\"nofollow\">Ameba smartphone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 766912527368228864,
+                "id_str": "766912527368228864",
+                "name": "Machico Official",
+                "screen_name": "Machico_staff",
+                "location": "",
+                "description": "\u30db\u30ea\u30d7\u30ed\u30a4\u30f3\u30bf\u30fc\u30ca\u30b7\u30e7\u30ca\u30eb\u6240\u5c5e\u58f0\u512a\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u30fbMachico\u30aa\u30d5\u30a3\u30b7\u30e3\u30eb\u30a2\u30ab\u30a6\u30f3\u30c8\u3002\u300e\u30a2\u30a4\u30c9\u30eb\u30de\u30b9\u30bf\u30fc\u30df\u30ea\u30aa\u30f3\u30e9\u30a4\u30d6\uff01\u300f\u4f0a\u5439\u7ffc\u3001\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300f\u30c8\u30a6\u30ab\u30a4\u30c6\u30a4\u30aa\u30fc\u3001\u300e\u3089\u304f\u304a\u3093\u300f\u300e\u30a2\u30cb\u30b3\u30ed\u300f\u300e\u3071\u304b\u30e9\u30b8\u30c3\uff01\u300f12/1\u304b\u3089\u30c4\u30a2\u30fc\u958b\u59cb\uff01\uff01\uff01",
+                "url": "https://t.co/JiBGrDZT3n",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/JiBGrDZT3n",
+                                "expanded_url": "https://www.instagram.com/machico_3s25/",
+                                "display_url": "instagram.com/machico_3s25/",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 32735,
+                "friends_count": 25,
+                "listed_count": 1327,
+                "created_at": "Sat Aug 20 08:19:29 +0000 2016",
+                "favourites_count": 14,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 1269,
+                "lang": "ja",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1062994290178121728/yDQde-j6_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1062994290178121728/yDQde-j6_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/766912527368228864/1542272709",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 52,
+            "favorite_count": 182,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Mon Dec 03 07:26:56 +0000 2018",
+            "id": 1069493168339439616,
+            "id_str": "1069493168339439616",
+            "text": "RT @takashi0615: Machico\u306e\u30bd\u30ed\u30e9\u30a4\u30d6\u300cGimme\u300d\u3078\u884c\u3063\u3066\u6765\u307e\u3057\u305f\uff01Machico\u306e\u4eba\u67c4\u5168\u958b\u306e\u697d\u3057\u304f\u30ab\u30c3\u30b3\u3044\u3044\u30e9\u30a4\u30d6\u3067\u3001\u3081\u3061\u3083\u304f\u3061\u3083\u826f\u304b\u3063\u305f\u3067\u3059\uff01\u611f\u60f3\u306a\u3069\u3001\u3089\u304f\u304a\u3093\u3078\u9001\u3063\u3066\u3044\u305f\u3060\u3051\u308c\u3070\u3001Machico\u3078\u5c4a\u3051\u307e\u3059\u306e\u3067\u3001\u3088\u308d\u3057\u3051\u308c\u3070\u305c\u3072\uff01\u3010\u3089\u304f\u304a\u3093\u69cb\u6210\u7be0\u5d0e\u3011",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "takashi0615",
+                        "name": "\u7be0\u5d0e\u9ad8\u5fd7",
+                        "id": 98592502,
+                        "id_str": "98592502",
+                        "indices": [
+                            3,
+                            15
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 766912527368228864,
+                "id_str": "766912527368228864",
+                "name": "Machico Official",
+                "screen_name": "Machico_staff",
+                "location": "",
+                "description": "\u30db\u30ea\u30d7\u30ed\u30a4\u30f3\u30bf\u30fc\u30ca\u30b7\u30e7\u30ca\u30eb\u6240\u5c5e\u58f0\u512a\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u30fbMachico\u30aa\u30d5\u30a3\u30b7\u30e3\u30eb\u30a2\u30ab\u30a6\u30f3\u30c8\u3002\u300e\u30a2\u30a4\u30c9\u30eb\u30de\u30b9\u30bf\u30fc\u30df\u30ea\u30aa\u30f3\u30e9\u30a4\u30d6\uff01\u300f\u4f0a\u5439\u7ffc\u3001\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300f\u30c8\u30a6\u30ab\u30a4\u30c6\u30a4\u30aa\u30fc\u3001\u300e\u3089\u304f\u304a\u3093\u300f\u300e\u30a2\u30cb\u30b3\u30ed\u300f\u300e\u3071\u304b\u30e9\u30b8\u30c3\uff01\u300f12/1\u304b\u3089\u30c4\u30a2\u30fc\u958b\u59cb\uff01\uff01\uff01",
+                "url": "https://t.co/JiBGrDZT3n",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/JiBGrDZT3n",
+                                "expanded_url": "https://www.instagram.com/machico_3s25/",
+                                "display_url": "instagram.com/machico_3s25/",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 32735,
+                "friends_count": 25,
+                "listed_count": 1327,
+                "created_at": "Sat Aug 20 08:19:29 +0000 2016",
+                "favourites_count": 14,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 1269,
+                "lang": "ja",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1062994290178121728/yDQde-j6_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1062994290178121728/yDQde-j6_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/766912527368228864/1542272709",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Sun Dec 02 10:32:25 +0000 2018",
+                "id": 1069177460787277824,
+                "id_str": "1069177460787277824",
+                "text": "Machico\u306e\u30bd\u30ed\u30e9\u30a4\u30d6\u300cGimme\u300d\u3078\u884c\u3063\u3066\u6765\u307e\u3057\u305f\uff01Machico\u306e\u4eba\u67c4\u5168\u958b\u306e\u697d\u3057\u304f\u30ab\u30c3\u30b3\u3044\u3044\u30e9\u30a4\u30d6\u3067\u3001\u3081\u3061\u3083\u304f\u3061\u3083\u826f\u304b\u3063\u305f\u3067\u3059\uff01\u611f\u60f3\u306a\u3069\u3001\u3089\u304f\u304a\u3093\u3078\u9001\u3063\u3066\u3044\u305f\u3060\u3051\u308c\u3070\u3001Machico\u3078\u5c4a\u3051\u307e\u3059\u306e\u3067\u3001\u3088\u308d\u3057\u3051\u308c\u3070\u305c\u3072\uff01\u3010\u3089\u304f\u304a\u3093\u69cb\u6210\u7be0\u5d0e\u3011",
+                "truncated": false,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": []
+                },
+                "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 98592502,
+                    "id_str": "98592502",
+                    "name": "\u7be0\u5d0e\u9ad8\u5fd7",
+                    "screen_name": "takashi0615",
+                    "location": "\uff12\u7d1a",
+                    "description": "\u30e9\u30b8\u30aa\u3092\u4f5c\u3063\u305f\u308a\u3001\u829d\u5c45\u3057\u305f\u308a\u3057\u3066\u307e\u3059\u3002",
+                    "url": "http://t.co/fPcWYZp0XP",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "url": "http://t.co/fPcWYZp0XP",
+                                    "expanded_url": "http://plumbowl.blogspot.com/",
+                                    "display_url": "plumbowl.blogspot.com",
+                                    "indices": [
+                                        0,
+                                        22
+                                    ]
+                                }
+                            ]
+                        },
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 10051,
+                    "friends_count": 365,
+                    "listed_count": 642,
+                    "created_at": "Tue Dec 22 09:08:41 +0000 2009",
+                    "favourites_count": 7,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": false,
+                    "verified": false,
+                    "statuses_count": 11690,
+                    "lang": "ja",
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "C0DEED",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/993523950154989568/Rj3xdNd9_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/993523950154989568/Rj3xdNd9_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/98592502/1421180476",
+                    "profile_link_color": "1DA1F2",
+                    "profile_sidebar_border_color": "C0DEED",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "has_extended_profile": true,
+                    "default_profile": true,
+                    "default_profile_image": false,
+                    "following": false,
+                    "follow_request_sent": false,
+                    "notifications": false,
+                    "translator_type": "none"
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 63,
+                "favorite_count": 132,
+                "favorited": false,
+                "retweeted": false,
+                "lang": "ja"
+            },
+            "is_quote_status": false,
+            "retweet_count": 63,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Mon Dec 03 04:10:49 +0000 2018",
+            "id": 1069443815050829825,
+            "id_str": "1069443815050829825",
+            "text": "\u307f\u305a\u3044\u308d\u7d50\u69cb\u597d\u304d\u3060\u3063\u305f\u308a\u3059\u308b\n\n\u3010\uff76\uff70\uff83\uff9e*\u00a0#snidel\u00a0\uff84\uff6f\uff8c\uff9f\uff7d*\u00a0#romanticstandard\u539f\u5bbf\u00a0\uff7d\uff76\uff70\uff84*\u00a0#\u53e4\u7740\u00a0\uff8d\uff9e\uff99\uff84*\u00a0#kolmebaby\u00a0\u9774*\u00a0#merryjenny\u00a0\u5e3d\u5b50*\u00a0#wego \u773c\u93e1 *\u2026 https://t.co/cEQTxbr50k",
+            "truncated": true,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "snidel",
+                        "indices": [
+                            23,
+                            30
+                        ]
+                    },
+                    {
+                        "text": "romanticstandard\u539f\u5bbf",
+                        "indices": [
+                            38,
+                            57
+                        ]
+                    },
+                    {
+                        "text": "\u53e4\u7740",
+                        "indices": [
+                            64,
+                            67
+                        ]
+                    },
+                    {
+                        "text": "kolmebaby",
+                        "indices": [
+                            74,
+                            84
+                        ]
+                    },
+                    {
+                        "text": "merryjenny",
+                        "indices": [
+                            88,
+                            99
+                        ]
+                    },
+                    {
+                        "text": "wego",
+                        "indices": [
+                            104,
+                            109
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/cEQTxbr50k",
+                        "expanded_url": "https://twitter.com/i/web/status/1069443815050829825",
+                        "display_url": "twitter.com/i/web/status/1\u2026",
+                        "indices": [
+                            116,
+                            139
+                        ]
+                    }
+                ]
+            },
+            "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 766912527368228864,
+                "id_str": "766912527368228864",
+                "name": "Machico Official",
+                "screen_name": "Machico_staff",
+                "location": "",
+                "description": "\u30db\u30ea\u30d7\u30ed\u30a4\u30f3\u30bf\u30fc\u30ca\u30b7\u30e7\u30ca\u30eb\u6240\u5c5e\u58f0\u512a\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u30fbMachico\u30aa\u30d5\u30a3\u30b7\u30e3\u30eb\u30a2\u30ab\u30a6\u30f3\u30c8\u3002\u300e\u30a2\u30a4\u30c9\u30eb\u30de\u30b9\u30bf\u30fc\u30df\u30ea\u30aa\u30f3\u30e9\u30a4\u30d6\uff01\u300f\u4f0a\u5439\u7ffc\u3001\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300f\u30c8\u30a6\u30ab\u30a4\u30c6\u30a4\u30aa\u30fc\u3001\u300e\u3089\u304f\u304a\u3093\u300f\u300e\u30a2\u30cb\u30b3\u30ed\u300f\u300e\u3071\u304b\u30e9\u30b8\u30c3\uff01\u300f12/1\u304b\u3089\u30c4\u30a2\u30fc\u958b\u59cb\uff01\uff01\uff01",
+                "url": "https://t.co/JiBGrDZT3n",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/JiBGrDZT3n",
+                                "expanded_url": "https://www.instagram.com/machico_3s25/",
+                                "display_url": "instagram.com/machico_3s25/",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 32735,
+                "friends_count": 25,
+                "listed_count": 1327,
+                "created_at": "Sat Aug 20 08:19:29 +0000 2016",
+                "favourites_count": 14,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 1269,
+                "lang": "ja",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1062994290178121728/yDQde-j6_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1062994290178121728/yDQde-j6_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/766912527368228864/1542272709",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 45,
+            "favorite_count": 184,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Sun Dec 02 15:11:12 +0000 2018",
+            "id": 1069247616435679233,
+            "id_str": "1069247616435679233",
+            "text": "@Haruhi1228 \u306f\u308b\u3072\u3055\u3093\u3093\u3093\n\u6628\u65e5\u306f\u89b3\u306b\u6765\u3066\u304f\u3060\u3055\u3063\u3066\u3042\u308a\u304c\u3068\u3046\u3054\u3056\u3044\u307e\u3059\ud83d\ude06\ud83d\udc95\n\u4eca\u65e5\u3082\u305f\u3063\u304f\u3055\u3093\u305f\u306e\u3057\u3081\u307e\u3057\u305f\uff5e\uff01\uff01\n\u30d8\u30d6\u30f3\u30ba\u30fb\u30ec\u30b3\u30fc\u30c9\u304c\u7e4b\u3044\u3067\u304f\u308c\u305f\u7d20\u6575\u306a\u3054\u7e01\ud83d\ude0c\n\u307e\u305f\u662f\u975e\u30e9\u30a4\u30d6\u6765\u3066\u304f\u3060\u3055\u3044\uff5e\ud83c\udfa0\u2728\nBY:Machico(\u30fb\u5c71\u30fb)",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "Haruhi1228",
+                        "name": "\u4f50\u85e4\u306f\u308b\u3072",
+                        "id": 237354387,
+                        "id_str": "237354387",
+                        "indices": [
+                            0,
+                            11
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": 1068877131034243072,
+            "in_reply_to_status_id_str": "1068877131034243072",
+            "in_reply_to_user_id": 237354387,
+            "in_reply_to_user_id_str": "237354387",
+            "in_reply_to_screen_name": "Haruhi1228",
+            "user": {
+                "id": 766912527368228864,
+                "id_str": "766912527368228864",
+                "name": "Machico Official",
+                "screen_name": "Machico_staff",
+                "location": "",
+                "description": "\u30db\u30ea\u30d7\u30ed\u30a4\u30f3\u30bf\u30fc\u30ca\u30b7\u30e7\u30ca\u30eb\u6240\u5c5e\u58f0\u512a\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u30fbMachico\u30aa\u30d5\u30a3\u30b7\u30e3\u30eb\u30a2\u30ab\u30a6\u30f3\u30c8\u3002\u300e\u30a2\u30a4\u30c9\u30eb\u30de\u30b9\u30bf\u30fc\u30df\u30ea\u30aa\u30f3\u30e9\u30a4\u30d6\uff01\u300f\u4f0a\u5439\u7ffc\u3001\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300f\u30c8\u30a6\u30ab\u30a4\u30c6\u30a4\u30aa\u30fc\u3001\u300e\u3089\u304f\u304a\u3093\u300f\u300e\u30a2\u30cb\u30b3\u30ed\u300f\u300e\u3071\u304b\u30e9\u30b8\u30c3\uff01\u300f12/1\u304b\u3089\u30c4\u30a2\u30fc\u958b\u59cb\uff01\uff01\uff01",
+                "url": "https://t.co/JiBGrDZT3n",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/JiBGrDZT3n",
+                                "expanded_url": "https://www.instagram.com/machico_3s25/",
+                                "display_url": "instagram.com/machico_3s25/",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 32735,
+                "friends_count": 25,
+                "listed_count": 1327,
+                "created_at": "Sat Aug 20 08:19:29 +0000 2016",
+                "favourites_count": 14,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 1269,
+                "lang": "ja",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1062994290178121728/yDQde-j6_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1062994290178121728/yDQde-j6_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/766912527368228864/1542272709",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 3,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Sun Dec 02 14:29:53 +0000 2018",
+            "id": 1069237221192957952,
+            "id_str": "1069237221192957952",
+            "text": "12/2Gimme\u2661\u4ee3\u5b98\u5c71SPACE ODD \u30fc \u30a2\u30e1\u30d6\u30ed\u3092\u66f4\u65b0\u3057\u307e\u3057\u305f\n#MACHICO\nhttps://t.co/5NJHEEVy0U",
+            "truncated": false,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "MACHICO",
+                        "indices": [
+                            37,
+                            45
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/5NJHEEVy0U",
+                        "expanded_url": "https://ameblo.jp/miumachi10/entry-12423234545.html?timestamp=1543760994",
+                        "display_url": "ameblo.jp/miumachi10/ent\u2026",
+                        "indices": [
+                            46,
+                            69
+                        ]
+                    }
+                ]
+            },
+            "source": "<a href=\"http://www.ameba.jp\" rel=\"nofollow\">Ameba smartphone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 766912527368228864,
+                "id_str": "766912527368228864",
+                "name": "Machico Official",
+                "screen_name": "Machico_staff",
+                "location": "",
+                "description": "\u30db\u30ea\u30d7\u30ed\u30a4\u30f3\u30bf\u30fc\u30ca\u30b7\u30e7\u30ca\u30eb\u6240\u5c5e\u58f0\u512a\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u30fbMachico\u30aa\u30d5\u30a3\u30b7\u30e3\u30eb\u30a2\u30ab\u30a6\u30f3\u30c8\u3002\u300e\u30a2\u30a4\u30c9\u30eb\u30de\u30b9\u30bf\u30fc\u30df\u30ea\u30aa\u30f3\u30e9\u30a4\u30d6\uff01\u300f\u4f0a\u5439\u7ffc\u3001\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300f\u30c8\u30a6\u30ab\u30a4\u30c6\u30a4\u30aa\u30fc\u3001\u300e\u3089\u304f\u304a\u3093\u300f\u300e\u30a2\u30cb\u30b3\u30ed\u300f\u300e\u3071\u304b\u30e9\u30b8\u30c3\uff01\u300f12/1\u304b\u3089\u30c4\u30a2\u30fc\u958b\u59cb\uff01\uff01\uff01",
+                "url": "https://t.co/JiBGrDZT3n",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/JiBGrDZT3n",
+                                "expanded_url": "https://www.instagram.com/machico_3s25/",
+                                "display_url": "instagram.com/machico_3s25/",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 32735,
+                "friends_count": 25,
+                "listed_count": 1327,
+                "created_at": "Sat Aug 20 08:19:29 +0000 2016",
+                "favourites_count": 14,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 1269,
+                "lang": "ja",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1062994290178121728/yDQde-j6_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1062994290178121728/yDQde-j6_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/766912527368228864/1542272709",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 139,
+            "favorite_count": 354,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Sun Dec 02 12:17:15 +0000 2018",
+            "id": 1069203841789218818,
+            "id_str": "1069203841789218818",
+            "text": "Gimme\u2661\u4ee3\u5b98\u5c71SPACE ODD\u3042\u308a\u304c\u3068\u30fc\u30fc\u30fc\uff01\uff01\u4eca\u65e5\u3082\u6700\u9ad8\u306b\u30dd\u30c3\u30d7\u3067\u30ed\u30c3\u30af \u3067\u30ad\u30e5\u30fc\u30c8\ud83d\ude08\ud83c\udfa4\n\uff8d\uff71\u306f\u30ad\u30e5\u30fc\u30c8\u3068\u3044\u3046\u3053\u3068\u3067\u5b9f\u5bb6\u306e\u308f\u3093\u3061\u3083\u3093\u767d\u30e2\u30b3\u3061\u3083\u3093\u610f\u8b58\ud83d\udc29\n\u305d\u3057\u3066\u8863\u88c5\u306f\u3059\u3051\u3059\u3051\u306a\u3093\u3060\uff5e\u6e05\u7d14\u3067\u3057\u3087\uff5e\ud83e\udddc\n\u6765\u9031\u306e\u5e83\u5cf6\u3067\uff8c\uff67\uff72\uff85\uff99\ud83d\ude4c\ud83d\ude4c\u2026 https://t.co/oboKFffXfF",
+            "truncated": true,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/oboKFffXfF",
+                        "expanded_url": "https://twitter.com/i/web/status/1069203841789218818",
+                        "display_url": "twitter.com/i/web/status/1\u2026",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ]
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 766912527368228864,
+                "id_str": "766912527368228864",
+                "name": "Machico Official",
+                "screen_name": "Machico_staff",
+                "location": "",
+                "description": "\u30db\u30ea\u30d7\u30ed\u30a4\u30f3\u30bf\u30fc\u30ca\u30b7\u30e7\u30ca\u30eb\u6240\u5c5e\u58f0\u512a\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u30fbMachico\u30aa\u30d5\u30a3\u30b7\u30e3\u30eb\u30a2\u30ab\u30a6\u30f3\u30c8\u3002\u300e\u30a2\u30a4\u30c9\u30eb\u30de\u30b9\u30bf\u30fc\u30df\u30ea\u30aa\u30f3\u30e9\u30a4\u30d6\uff01\u300f\u4f0a\u5439\u7ffc\u3001\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300f\u30c8\u30a6\u30ab\u30a4\u30c6\u30a4\u30aa\u30fc\u3001\u300e\u3089\u304f\u304a\u3093\u300f\u300e\u30a2\u30cb\u30b3\u30ed\u300f\u300e\u3071\u304b\u30e9\u30b8\u30c3\uff01\u300f12/1\u304b\u3089\u30c4\u30a2\u30fc\u958b\u59cb\uff01\uff01\uff01",
+                "url": "https://t.co/JiBGrDZT3n",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/JiBGrDZT3n",
+                                "expanded_url": "https://www.instagram.com/machico_3s25/",
+                                "display_url": "instagram.com/machico_3s25/",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 32735,
+                "friends_count": 25,
+                "listed_count": 1327,
+                "created_at": "Sat Aug 20 08:19:29 +0000 2016",
+                "favourites_count": 14,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 1269,
+                "lang": "ja",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1062994290178121728/yDQde-j6_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1062994290178121728/yDQde-j6_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/766912527368228864/1542272709",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 427,
+            "favorite_count": 1367,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Sun Dec 02 07:45:15 +0000 2018",
+            "id": 1069135393193263105,
+            "id_str": "1069135393193263105",
+            "text": "Gimme\u2661\u4eca\u65e5\u306f\u4ee3\u5b98\u5c71SPACE ODD\ud83c\udfb5\n\uff97\uff8a\uff9e\uff8a\uff9e\uff9d\u306e\u5199\u30e1\u306e\u3042\u3068\u307e\u3061\u3053\u306f\u5bdd\u888b\u3067\u3050\u3063\u3059\u307f\u3093\u3057\u3066\u982d\u306e\u4e2d\u6574\u7406\u3057\u305f\u305e\u30fc\u203c\ufe0f\n\uff8c\uff9f\uff98\uff9d\u98df\u3079\u3066\u7cd6\u5206\u88dc\u7d66\ud83c\udf6e\n\u4eca\u65e5\u3082\u3088\u308d\u3057\u304f\u30fc\ud83d\ude08\n\u203b\u3042\u304b\u3089\u3055\u307e\u306b\uff78\uff9e\uff6f\uff7d\uff9e\u3092\u4e3b\u5f35\u3057\u3066\u3044\u304f\u30b9\u30bf\u30a4\u30eb\nBY:Mach\u2026 https://t.co/dq2bpbBmX0",
+            "truncated": true,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/dq2bpbBmX0",
+                        "expanded_url": "https://twitter.com/i/web/status/1069135393193263105",
+                        "display_url": "twitter.com/i/web/status/1\u2026",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ]
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 766912527368228864,
+                "id_str": "766912527368228864",
+                "name": "Machico Official",
+                "screen_name": "Machico_staff",
+                "location": "",
+                "description": "\u30db\u30ea\u30d7\u30ed\u30a4\u30f3\u30bf\u30fc\u30ca\u30b7\u30e7\u30ca\u30eb\u6240\u5c5e\u58f0\u512a\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u30fbMachico\u30aa\u30d5\u30a3\u30b7\u30e3\u30eb\u30a2\u30ab\u30a6\u30f3\u30c8\u3002\u300e\u30a2\u30a4\u30c9\u30eb\u30de\u30b9\u30bf\u30fc\u30df\u30ea\u30aa\u30f3\u30e9\u30a4\u30d6\uff01\u300f\u4f0a\u5439\u7ffc\u3001\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300f\u30c8\u30a6\u30ab\u30a4\u30c6\u30a4\u30aa\u30fc\u3001\u300e\u3089\u304f\u304a\u3093\u300f\u300e\u30a2\u30cb\u30b3\u30ed\u300f\u300e\u3071\u304b\u30e9\u30b8\u30c3\uff01\u300f12/1\u304b\u3089\u30c4\u30a2\u30fc\u958b\u59cb\uff01\uff01\uff01",
+                "url": "https://t.co/JiBGrDZT3n",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/JiBGrDZT3n",
+                                "expanded_url": "https://www.instagram.com/machico_3s25/",
+                                "display_url": "instagram.com/machico_3s25/",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 32735,
+                "friends_count": 25,
+                "listed_count": 1327,
+                "created_at": "Sat Aug 20 08:19:29 +0000 2016",
+                "favourites_count": 14,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 1269,
+                "lang": "ja",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1062994290178121728/yDQde-j6_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1062994290178121728/yDQde-j6_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/766912527368228864/1542272709",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 161,
+            "favorite_count": 621,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Sun Dec 02 07:11:12 +0000 2018",
+            "id": 1069126822862835713,
+            "id_str": "1069126822862835713",
+            "text": "\u958b\u5834\u307e\u3067\u3042\u306850\u5206\u203c\ufe0f\n\u4ee3\u5b98\u5c71\u3067\u304a\u5f85\u3061\u3057\u3066\u304a\u308a\u307e\u3059\ud83e\uddda\u200d\u2642\ufe0f\ud83e\udd84\u2728\n\u203b\u672c\u756a\u524d\u306eMachico\u306e\u8155\u3092\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002\u3042\u308c\u3001\u4f55\u304b\u3064\u3051\u3066\u307e\u3059\u306d\u2026\ud83e\udd14(STAFF)\n#Machico #gimme_m https://t.co/donsEHcIej",
+            "truncated": false,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "Machico",
+                        "indices": [
+                            75,
+                            83
+                        ]
+                    },
+                    {
+                        "text": "gimme_m",
+                        "indices": [
+                            84,
+                            92
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [],
+                "media": [
+                    {
+                        "id": 1069126814893727745,
+                        "id_str": "1069126814893727745",
+                        "indices": [
+                            93,
+                            116
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/DtZNLHWV4AEGtOH.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/DtZNLHWV4AEGtOH.jpg",
+                        "url": "https://t.co/donsEHcIej",
+                        "display_url": "pic.twitter.com/donsEHcIej",
+                        "expanded_url": "https://twitter.com/Machico_staff/status/1069126822862835713/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 510,
+                                "h": 680,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 900,
+                                "h": 1200,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 1536,
+                                "h": 2048,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1069126814893727745,
+                        "id_str": "1069126814893727745",
+                        "indices": [
+                            93,
+                            116
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/DtZNLHWV4AEGtOH.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/DtZNLHWV4AEGtOH.jpg",
+                        "url": "https://t.co/donsEHcIej",
+                        "display_url": "pic.twitter.com/donsEHcIej",
+                        "expanded_url": "https://twitter.com/Machico_staff/status/1069126822862835713/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 510,
+                                "h": 680,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 900,
+                                "h": 1200,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 1536,
+                                "h": 2048,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 766912527368228864,
+                "id_str": "766912527368228864",
+                "name": "Machico Official",
+                "screen_name": "Machico_staff",
+                "location": "",
+                "description": "\u30db\u30ea\u30d7\u30ed\u30a4\u30f3\u30bf\u30fc\u30ca\u30b7\u30e7\u30ca\u30eb\u6240\u5c5e\u58f0\u512a\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u30fbMachico\u30aa\u30d5\u30a3\u30b7\u30e3\u30eb\u30a2\u30ab\u30a6\u30f3\u30c8\u3002\u300e\u30a2\u30a4\u30c9\u30eb\u30de\u30b9\u30bf\u30fc\u30df\u30ea\u30aa\u30f3\u30e9\u30a4\u30d6\uff01\u300f\u4f0a\u5439\u7ffc\u3001\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300f\u30c8\u30a6\u30ab\u30a4\u30c6\u30a4\u30aa\u30fc\u3001\u300e\u3089\u304f\u304a\u3093\u300f\u300e\u30a2\u30cb\u30b3\u30ed\u300f\u300e\u3071\u304b\u30e9\u30b8\u30c3\uff01\u300f12/1\u304b\u3089\u30c4\u30a2\u30fc\u958b\u59cb\uff01\uff01\uff01",
+                "url": "https://t.co/JiBGrDZT3n",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/JiBGrDZT3n",
+                                "expanded_url": "https://www.instagram.com/machico_3s25/",
+                                "display_url": "instagram.com/machico_3s25/",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 32735,
+                "friends_count": 25,
+                "listed_count": 1327,
+                "created_at": "Sat Aug 20 08:19:29 +0000 2016",
+                "favourites_count": 14,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 1269,
+                "lang": "ja",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1062994290178121728/yDQde-j6_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1062994290178121728/yDQde-j6_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/766912527368228864/1542272709",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 84,
+            "favorite_count": 317,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Sun Dec 02 03:56:35 +0000 2018",
+            "id": 1069077844704210944,
+            "id_str": "1069077844704210944",
+            "text": "\u672c\u65e5\u3001Gimme\u26612\u65e5\u76ee\u203c\ufe0f\u4ee3\u5b98\u5c71SPACE ODD\ud83c\udf1f\ud83d\udcab\n17:00\u958b\u5834/17:30\u958b\u6f14\u3067\u3059\ud83e\uddda\u200d\u2642\ufe0f\n\u521d\u65e5\u6a2a\u6d5c\u3067\u7686\u3055\u3093\u304b\u3089\u305f\u304f\u3055\u3093\u306e\u611b\u3092\u9802\u3044\u305f\u306e\u3067\u3001\u4eca\u65e5\u306eMachico\u3082\u30d5\u30eb\u30d1\u30ef\u30fc\u3067\u3044\u304d\u307e\u3059\u3088\u301c\u3063\ud83c\udf08\u203c\ufe0f\n\u203bMachico\u306e\u4ee3\u5b98\u5c71\u306e\u2026 https://t.co/XWvlfSmASf",
+            "truncated": true,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/XWvlfSmASf",
+                        "expanded_url": "https://twitter.com/i/web/status/1069077844704210944",
+                        "display_url": "twitter.com/i/web/status/1\u2026",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ]
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 766912527368228864,
+                "id_str": "766912527368228864",
+                "name": "Machico Official",
+                "screen_name": "Machico_staff",
+                "location": "",
+                "description": "\u30db\u30ea\u30d7\u30ed\u30a4\u30f3\u30bf\u30fc\u30ca\u30b7\u30e7\u30ca\u30eb\u6240\u5c5e\u58f0\u512a\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u30fbMachico\u30aa\u30d5\u30a3\u30b7\u30e3\u30eb\u30a2\u30ab\u30a6\u30f3\u30c8\u3002\u300e\u30a2\u30a4\u30c9\u30eb\u30de\u30b9\u30bf\u30fc\u30df\u30ea\u30aa\u30f3\u30e9\u30a4\u30d6\uff01\u300f\u4f0a\u5439\u7ffc\u3001\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300f\u30c8\u30a6\u30ab\u30a4\u30c6\u30a4\u30aa\u30fc\u3001\u300e\u3089\u304f\u304a\u3093\u300f\u300e\u30a2\u30cb\u30b3\u30ed\u300f\u300e\u3071\u304b\u30e9\u30b8\u30c3\uff01\u300f12/1\u304b\u3089\u30c4\u30a2\u30fc\u958b\u59cb\uff01\uff01\uff01",
+                "url": "https://t.co/JiBGrDZT3n",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/JiBGrDZT3n",
+                                "expanded_url": "https://www.instagram.com/machico_3s25/",
+                                "display_url": "instagram.com/machico_3s25/",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 32735,
+                "friends_count": 25,
+                "listed_count": 1327,
+                "created_at": "Sat Aug 20 08:19:29 +0000 2016",
+                "favourites_count": 14,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 1269,
+                "lang": "ja",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1062994290178121728/yDQde-j6_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1062994290178121728/yDQde-j6_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/766912527368228864/1542272709",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 93,
+            "favorite_count": 247,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Sat Dec 01 14:30:54 +0000 2018",
+            "id": 1068875090262024193,
+            "id_str": "1068875090262024193",
+            "text": "12/1Gimme\u2661YOKOHAMA \u30fc \u30a2\u30e1\u30d6\u30ed\u3092\u66f4\u65b0\u3057\u307e\u3057\u305f\n#MACHICO\nhttps://t.co/LEhk3c2RN5",
+            "truncated": false,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "MACHICO",
+                        "indices": [
+                            33,
+                            41
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/LEhk3c2RN5",
+                        "expanded_url": "https://ameblo.jp/miumachi10/entry-12423003633.html?timestamp=1543674655",
+                        "display_url": "ameblo.jp/miumachi10/ent\u2026",
+                        "indices": [
+                            42,
+                            65
+                        ]
+                    }
+                ]
+            },
+            "source": "<a href=\"http://www.ameba.jp\" rel=\"nofollow\">Ameba smartphone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 766912527368228864,
+                "id_str": "766912527368228864",
+                "name": "Machico Official",
+                "screen_name": "Machico_staff",
+                "location": "",
+                "description": "\u30db\u30ea\u30d7\u30ed\u30a4\u30f3\u30bf\u30fc\u30ca\u30b7\u30e7\u30ca\u30eb\u6240\u5c5e\u58f0\u512a\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u30fbMachico\u30aa\u30d5\u30a3\u30b7\u30e3\u30eb\u30a2\u30ab\u30a6\u30f3\u30c8\u3002\u300e\u30a2\u30a4\u30c9\u30eb\u30de\u30b9\u30bf\u30fc\u30df\u30ea\u30aa\u30f3\u30e9\u30a4\u30d6\uff01\u300f\u4f0a\u5439\u7ffc\u3001\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300f\u30c8\u30a6\u30ab\u30a4\u30c6\u30a4\u30aa\u30fc\u3001\u300e\u3089\u304f\u304a\u3093\u300f\u300e\u30a2\u30cb\u30b3\u30ed\u300f\u300e\u3071\u304b\u30e9\u30b8\u30c3\uff01\u300f12/1\u304b\u3089\u30c4\u30a2\u30fc\u958b\u59cb\uff01\uff01\uff01",
+                "url": "https://t.co/JiBGrDZT3n",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/JiBGrDZT3n",
+                                "expanded_url": "https://www.instagram.com/machico_3s25/",
+                                "display_url": "instagram.com/machico_3s25/",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 32735,
+                "friends_count": 25,
+                "listed_count": 1327,
+                "created_at": "Sat Aug 20 08:19:29 +0000 2016",
+                "favourites_count": 14,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 1269,
+                "lang": "ja",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1062994290178121728/yDQde-j6_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1062994290178121728/yDQde-j6_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/766912527368228864/1542272709",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 92,
+            "favorite_count": 219,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "ja"
+        }
+    ]
+}
