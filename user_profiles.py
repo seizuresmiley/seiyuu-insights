@@ -49,14 +49,22 @@ def get_user_info():
                 #retrieves the image.
                 req.urlretrieve(profile_url,"%s/%s/profile.jpg"%(working_dir,row['handle']))
                 #prints success image.
-                print("got profile pic.")
+                print("got image!")
+                if 'profile_banner_url' in result:
+                    req.urlretrieve(result['profile_banner_url'],"%s/%s/banner.jpg"%(working_dir,row['handle']))
+                    print("got cover!")
+                else:
+                    print('no cover!')
+                print(limit_check('users','/users/show/:id')['remaining_calls'])
 
-def limit_check():
+
+
+def limit_check(type,endpoint):
     '''checks the API rate limits'''
     #calls the API to get rate limit information
     rate_limit = api.rate_limit_status()
-    remaining_calls = rate_limit["resources"]["statuses"]["/statuses/user_timeline"]["remaining"]
-    reset = rate_limit["resources"]["statuses"]["/statuses/user_timeline"]["reset"]
+    remaining_calls = rate_limit["resources"][type][endpoint]["remaining"]
+    reset = rate_limit["resources"][type][endpoint]["reset"]
     return {"remaining_calls" : remaining_calls , "reset_time" : reset}
 
 get_user_info()
