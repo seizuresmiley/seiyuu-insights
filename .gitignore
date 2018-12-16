@@ -3,3 +3,5 @@ __pycache__/
 result_raw/
 example.csv
 result_raw_small/
+analysis_result/
+.vscode/
