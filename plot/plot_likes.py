@@ -1,5 +1,6 @@
 import collections
-import matplotlib.pyplot as plt
+import pygal
+from pygal.style import Style
 import pandas as pd
 import json
 import os
@@ -9,41 +10,32 @@ def likes(read_dir,current_file):
     '''returns a list with amount of status likes'''
     #creates an empty list
     result = list()
+    time = list()
     #Opens the data file
     with open("%s%s" % (read_dir,current_file),"r",encoding='utf8') as raw:
         data = json.load(raw)
         for tweet in data['tweets']:
             result.append(tweet['favorite_count'])
-        endtime = data['tweets'][0]["created_at"]
-        starttime = data['tweets'][-1]["created_at"]
+            time.append(tweet["created_at"])
+        time.reverse()
         handle = data['tweets'][0]['user']['screen_name']
+        color = "#" + data['tweets'][0]['user']['profile_link_color']
     #Calls a plotting function to plot thee data.
-    plotter(result,starttime,endtime,handle)
-    print("Called plotter() to plot ",handle)
+    pygal_line(result,time,handle,color)
+    print("Called pygal_line() to plot ",handle)
 
-def plotter(lst,start,end,handle):
-    '''makes a line chart from the provided args'''
-    #Make a Pandas Series.
-    series = pd.Series(lst,index=pd.date_range(start=start,end=end,periods=len(lst)))
-    #Make a sum of all favourites
+
+def pygal_line(lst,time,handle,color):
+    '''make a pygal chart'''
+    profile_color = Style(colors = [color])
+    series = pd.Series(lst,index=time)
     series = series.cumsum()
-    #Plots the series into an Axes object
-    ax = series.plot(figsize=(20,10),fontsize=30,subplots=False)
-    #Sets various visual elements of the chart
-    ax.set_title("Like Accumulation for %s" % (handle),fontsize=45)
-    ax.set_xlabel("Date",fontsize=30)
-    ax.set_ylabel("Like Count",fontsize=30)
-    #Make an image object out of the Axes.
-    image = ax.get_figure()
-    #Saves the image.
-    image.savefig('analysis_result/likes/line_plot/%s.png' % (handle))
-    print("Plotted" ,handle)
-    #Clear out the variables
-    ax = None
-    series = None
-    image = None
-    #Specify that we want to make a new plot.
-    plt.clf()
+    chart_title = "Favourites Accumulation for %s" % (handle)
+    line_chart = pygal.Line(title=chart_title ,x_title='Time', y_title='Accumulated Favourites', style=profile_color)
+    line_chart.x_labels = time
+    line_chart.add(handle,series)
+    line_chart.render_to_file('analysis_result/favourites_pygal/%s.svg' % (handle))
+
 
 def files_list(read_dir):
     '''traverses through the working directory and return each file'''

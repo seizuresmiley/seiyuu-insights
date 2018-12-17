@@ -14,11 +14,9 @@ def collect_tags(read_dir):
         with open('%s%s' % (read_dir,file),"r",encoding='utf8') as raw:
             data = json.load(raw)
             for tweet in data['tweets']:
-                if len(tweet["entities"]['user_mentions']) > 0 and "retweeted_status" not in tweet :
-                    #then we count the screen names.
-                    for mentions in tweet['entities']['user_mentions']:
-                        if data['handle'].replace('@',"") != mentions['screen_name']:
-                                count.update({mentions['screen_name']})
+               if "retweeted_status" in tweet:
+                    #we update the count with screen name.
+                    count.update({tweet['retweeted_status']['user']['screen_name']})
         pygal_bar(count,data['handle'])
         count = col.Counter()
 
@@ -27,13 +25,13 @@ def pygal_bar(count,handle):
     '''makes a pygal chart from input'''
     most_common = count.most_common()
     cutlist = most_common[0:10]
-    chart_title = "Top 10 Mentions for %s" % (handle)
+    chart_title = "Top 10 Users Retweeted for %s" % (handle)
     barchart = pygal.Bar(title=chart_title)
     for items in cutlist:
         barchart.add(*items)
     print("Plotted",handle)
     
-    barchart.render_to_file('analysis_result/mentions_pygal/%s.svg' % (handle))
+    barchart.render_to_file('analysis_result/rts_pygal/%s.svg' % (handle))
 
 
 
