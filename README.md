@@ -5,11 +5,11 @@ Analysing trends among seiyuus through Tweets.
 
 ## Scope
 
-We intend to analyse various metrics retrieved through Twitter. We are targeting various Voice Actors who had a part in voicing the characters in the series of video games named *"THE IDOLM@STER Million Live!"*. We got a result of 72,000 tweets.
+We intend to analyse various metrics retrieved through Twitter. We are targeting various Voice Actors who had a part in voicing the characters in the series of video games named *"THE IDOLM@STER Million Live!"*. We got a result of over 72,000 tweets across 32 users.
 
 
 ## Information:
-Site : on [seirent.info](http://github.seirent.info/MLAnalysis/main.html)
+Site : on [seirent.info](http://projects.seirent.info/MLAnalysis/main.html)
 
 Language: Python
 
