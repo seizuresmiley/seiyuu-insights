@@ -15,7 +15,7 @@ Language: Python
 
 Third Party libraries used: [tweepy](http://www.tweepy.org), [pandas](https://pandas.pydata.org/), [pygal](http://pygal.org)
 
-
+Video : https://youtu.be/XK5UtLXSAeU
 
 ## Methodology
 We retrieved user handles from this unofficial list of handles compiled by fans.
@@ -45,3 +45,7 @@ The verification script makes sure we get the maximum amount of tweets from a us
 Scripts in `analysis_tools` are tools for rudimentary data analysis.
 
 However, most visualization tools are in `plot` folder.
+
+## Contributors:
+Apiyut Iao-seeyok ID:61070349
+Parinya Somboonpol  ID:61070118
